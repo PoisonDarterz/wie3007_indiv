@@ -1,0 +1,501 @@
+customer_id,date,age,occupation,monthly_income,monthly_credit,monthly_debit,starting_balance,ending_balance,monthly_invest_gain,monthly_invest_return_pct,initial_credit_score,final_credit_score,transaction_category_major,customer_feedback
+CUST00001,2025-01-31,45,Teacher,3723.47,3801.07,2467.52,11200.47,12534.02,77.6,0.52,668,673,dining,"Dining was enjoyable, but finances remain strong."
+CUST00002,2025-01-31,21,Teacher,5275.91,6245.5,6829.58,12190.17,11606.1,315.29,1.74,633,638,healthcare,"Healthcare costs were high, good reserves helped."
+CUST00003,2025-01-31,45,Self-employed,3481.94,4089.6,5530.05,3511.02,2070.57,59.57,0.79,696,686,dining,Dining out was excessive; need to cut back.
+CUST00004,2025-01-31,50,Self-employed,3940.55,5116.7,6419.16,7142.85,5840.39,265.08,2.21,748,753,utilities,Utilities were costly; exploring ways to save energy.
+CUST00005,2025-01-31,32,Retail,5704.87,6097.01,2152.2,10235.67,14180.49,295.09,1.84,705,700,dining,"Excellent savings this month, very happy with progress!"
+CUST00006,2025-01-31,26,Engineer,6563.84,7271.12,5903.91,7811.2,9178.41,352.05,2.39,627,622,dining,"Managed dining costs well, financial health is good."
+CUST00007,2025-01-31,36,Healthcare,3990.87,6456.65,8676.66,7461.86,5241.84,236.7,1.73,743,738,shopping,Shopping spree impacted balance; will be more mindful.
+CUST00008,2025-01-31,44,Finance,7823.06,8723.14,7201.27,24270.85,25792.72,494.0,1.52,759,769,education,Education investment continues; strong savings too.
+CUST00009,2025-01-31,33,Retail,1604.24,1977.79,1633.71,3580.13,3924.21,58.3,1.06,645,650,transport,"Transport costs manageable, but savings growth is slow."
+CUST00010,2025-01-31,51,Manager,5528.41,6536.42,8142.47,2945.57,1339.52,128.15,1.37,670,675,groceries,Groceries were pricey; next month requires strict budgeting.
+CUST00011,2025-01-31,55,Student,3110.72,4170.34,22035.9158255476,2123.53,2634.51,121.59,1.97,728,718,dining,"Dining was a treat, but aiming for higher savings."
+CUST00012,2025-01-31,22,Manager,6930.78,8292.94,2132.04,23506.19,29667.09,0.0,-0.4,731,741,groceries,Groceries managed well; excellent progress on savings!
+CUST00013,2025-01-31,24,Student,7509.59,9211.24,5731.32,17191.51,20671.43,178.33,0.68,690,695,shopping,Shopping was reasonable; solid financial standing.
+CUST00014,2025-01-31,51,Manager,2811.07,3248.8,4886.73,11129.43,9491.5,437.73,3.14,690,700,education,Education spending was high; will monitor next month.
+CUST00015,2025-01-31,34,Finance,3663.77,4376.77,7303.45,14608.7,11682.02,0.0,-0.61,661,666,shopping,Shopping took a chunk; good thing savings were there.
+CUST00016,2025-01-31,37,Manager,4379.44,5045.62,3378.46,5109.67,6776.83,52.53,0.52,739,729,shopping,"Smart shopping and steady savings, feeling good."
+CUST00017,2025-01-31,50,Manager,2694.75,3632.64,3835.6,3672.29,3469.33,0.0,-2.11,657,667,dining,Dining was a bit over budget; need tighter control.
+CUST00018,2025-01-31,37,Finance,6085.53,,,1888.45,3776.9,0.0,-1.6,705,695,shopping,"Shopping was okay, but end balance isn't very high."
+CUST00019,2025-01-31,47,Technician,1216.01,1814.12,2272.73,3176.15,2717.54,110.76,2.27,722,732,education,"Education costs were higher, impacted monthly cash flow."
+CUST00020,2025-01-31,46,Technician,5980.71,7748.87,5026.09,14162.23,16885.01,0.0,-0.53,697,707,dining,"Enjoyed dining experiences, still achieved great savings."
+CUST00021,2025-01-31,36,Student,6495.48,8196.25,3628.92,17371.65,21938.99,833.55,3.37,638,633,education,"Education expenses met, excellent financial position overall."
+CUST00022,2025-01-31,26,Finance,924.31,1243.3,1083.75,1140.33,1299.88,20.09,0.85,745,735,transport,"Transport costs minimal, but aiming for higher savings."
+CUST00023,2025-01-31,45,Finance,8577.36,9518.93,8448.62,15233.93,16304.24,482.97,1.99,673,668,education,"Education expenses are significant, but manageable with income."
+CUST00024,2025-01-31,29,Teacher,2239.08,2411.79,1074.15,1496.89,2834.53,28.71,0.74,728,738,healthcare,"Healthcare minimal, but could still build more savings."
+CUST00025,2025-01-31,55,Finance,5346.36,6564.18,2263.43,4282.87,8583.62,0.0,-0.22,669,664,education,"Education spending in line, strong financial health this month."
+CUST00026,2025-01-31,33,Manager,3657.5,4240.34,2407.78,12135.89,13968.45,332.11,2.07,634,639,healthcare,"Healthcare good; impressive savings growth, very pleased."
+CUST00027,2025-01-31,41,Self-employed,1737.95,1927.78,3131.32,2909.9,1706.36,43.15,0.9,692,697,shopping,Shopping was excessive; must prioritize needs next month.
+CUST00028,2025-01-31,33,Retail,2975.34,3973.41,3039.94,1514.94,2448.41,103.39,1.92,639,644,entertainment,"Enjoyed entertainment, but need to boost emergency fund."
+CUST00029,2025-01-31,43,Engineer,3482.19,3577.19,7114.52,4039.59,502.26,0.0,-0.82,723,718,transport,Transport costs and other expenses drained my account.
+CUST00030,2025-01-31,62,Retail,5718.62,6971.59,4264.19,6346.78,9054.18,92.58,0.7,766,756,transport,Transport was fine; financial situation looks stable.
+CUST00031,2025-01-31,29,Student,4537.32,5156.92,7551.41,6867.15,4472.65,246.16,2.09,679,689,shopping,Shopping was heavy; definitely need to cut back.
+CUST00032,2025-01-31,45,Retail,1940.73,2383.65,2813.5,980.28,550.43,43.83,1.32,672,667,healthcare,Healthcare costs and low income left minimal funds.
+CUST00033,2025-01-31,43,Teacher,3216.7,4729.63,2541.68,2463.29,4651.24,25.8,0.36,711,721,groceries,"Groceries were reasonable, finances are on track."
+CUST00034,2025-01-31,36,Self-employed,6055.41,6231.99,6032.33,7594.35,7794.01,155.84,1.14,737,747,shopping,Shopping was okay; steady progress on financial goals.
+CUST00035,2025-01-31,27,Self-employed,6116.97,7021.43,12485.23,3954.37,-1509.43,105.44,0.97,658,648,utilities,Critical: utilities and overspending caused a negative balance.
+CUST00036,2025-01-31,55,Finance,4359.44,7750.06,13107.64,10704.38,5346.8,58.87,0.32,656,646,entertainment,"Entertainment costs very high, significantly impacted balance."
+CUST00037,2025-01-31,24,Finance,5209.03,5699.6,2382.48,7757.08,11074.21,149.05,1.12,656,651,shopping,"Shopping was controlled, excellent month for savings."
+CUST00038,2025-01-31,60,Engineer,8868.82,8877.81,11447.1,21233.52,18664.24,0.0,-0.21,748,753,shopping,"Shopping high, but previous savings absorb the impact."
+CUST00039,2025-01-31,39,Healthcare,4909.59,5512.27,3692.53,5570.56,7390.3,257.64,2.38,689,684,education,
+CUST00040,2025-01-31,23,Unemployed,4748.96,7150.13,2980.34,9902.44,14072.24,614.77,3.74,699,689,education,Education expenses met; strong savings continue this month.
+CUST00041,2025-01-31,33,Technician,4478.81,5831.06,4836.93,17428.13,18422.26,314.34,1.37,704,709,healthcare,Healthcare costs normal; overall finances are thriving.
+CUST00042,2025-01-31,18,Teacher,3166.59,3888.64,3273.04,9908.28,10523.87,135.25,0.99,753,763,entertainment,Entertainment was fine; consistent savings growth.
+CUST00043,2025-01-31,37,Finance,2764.78,2929.77,2336.48,5653.06,6246.35,164.99,1.96,744,754,healthcare,"Healthcare costs low, maintaining healthy savings."
+CUST00044,2025-01-31,47,Unemployed,5056.79,5435.56,12605.6,10363.2,3193.16,254.92,1.64,713,718,shopping,Major shopping expenses; need to regain financial control.
+CUST00045,2025-01-31,27,Manager,6963.33,8055.31,4041.69,25977.81,29991.42,270.1,0.8,778,783,groceries,"Groceries managed; phenomenal savings, very well done!"
+CUST00046,2025-01-31,23,Finance,1400.21,1715.99,3067.63,2364.85,1013.2,103.41,2.6,722,727,healthcare,Healthcare and other costs left very little money.
+CUST00047,2025-01-31,44,Finance,4936.63,5946.68,16739.8,4445.26,-6347.86,0.0,-0.01,645,640,healthcare,"Serious overspending, especially on healthcare. Immediate action needed."
+CUST00048,2025-01-31,31,Manager,3125.48,3333.65,4831.64,4694.01,3196.02,66.08,0.83,696,691,utilities,Utilities were high; must monitor spending carefully.
+CUST00049,2025-01-31,35,Self-employed,7775.38,9735.37,18380.08,8361.95,-282.76,0.0,-1.06,704,694,entertainment,"Entertainment spending excessive, resulted in an overdrawn account."
+CUST00050,2025-01-31,33,Manager,3473.49,4820.89,2755.5,4393.22,6458.61,217.71,2.42,655,660,education,"Education costs covered, good financial health overall."
+CUST00051,2025-01-31,32,Retail,5310.08,5443.97,9308.1,5941.21,2077.08,7.96,0.07,580,570,education,
+CUST00052,2025-01-31,48,Self-employed,3889.11,4580.22,9369.53,5724.57,935.26,174.25,1.72,617,627,healthcare,Focus on reducing healthcare costs to boost your savings.
+CUST00053,2025-01-31,55,Manager,4676.05,5208.23,2879.43,6550.37,8879.17,0.0,-0.33,763,758,education,Keep up the good work; perhaps increase education savings.
+CUST00054,2025-01-31,39,Healthcare,2555.86,2584.09,1993.34,1158.09,1748.84,28.23,0.76,695,705,transport,Review transport spending; slight increase in savings is possible.
+CUST00055,2025-01-31,41,Student,2820.87,2820.87,2266.31,10120.53,10675.09,0.0,-0.94,665,670,dining,You have a great balance! Consider exploring new investment options.
+CUST00056,2025-01-31,53,Manager,2542.96,3486.95,24844.181443449703,4659.04,6019.26,70.26,0.87,662,667,education,Your education spending is well managed; keep it up!
+CUST00057,2025-01-31,18,Unemployed,1897.38,2159.48,26499.193138097588,4736.25,5332.3,0.0,-0.69,674,664,transport,Consistent savings! Maybe explore ways to optimize transport costs.
+CUST00058,2025-01-31,26,Retail,1939.39,2532.55,2772.45,2180.98,1941.08,64.62,1.39,768,773,education,Monitor education expenses to prevent overspending next month.
+CUST00059,2025-01-31,27,Manager,4058.21,6098.1,5205.21,5926.44,6819.32,143.76,1.21,673,663,education,Solid financial month. Perhaps allocate more to your education fund.
+CUST00060,2025-01-31,48,Self-employed,9768.46,10908.66,6259.19,12721.27,17370.74,436.05,1.88,721,731,dining,"Excellent month! Enjoy dining, but consider boosting long-term savings."
+CUST00061,2025-01-31,38,Retail,4424.19,,,5451.49,6290.18,0.0,-1.12,610,620,healthcare,Good control over healthcare. Review spending for potential extra savings.
+CUST00062,2025-01-31,18,Healthcare,5027.1,5653.66,2770.5,4725.88,7609.05,0.0,-0.09,686,696,dining,
+CUST00063,2025-01-31,29,Retail,500.0,554.17,1181.13,1831.16,1204.19,42.64,1.82,629,624,healthcare,Try to cut back on healthcare costs to improve your balance.
+CUST00064,2025-01-31,45,Technician,5221.8,6580.79,6523.22,16657.01,16714.57,0.0,-0.16,604,599,education,Outstanding balance! Review education investments for potential growth.
+CUST00065,2025-01-31,27,Engineer,4412.72,5819.07,5670.71,10903.39,11051.75,86.51,0.52,728,733,shopping,
+CUST00066,2025-01-31,47,Self-employed,752.93,962.09,2242.24,1318.2,38.05,8.41,0.37,694,684,healthcare,Urgent: address healthcare spending to avoid overdraft next month.
+CUST00067,2025-01-31,20,Engineer,5209.18,5699.37,9114.98,6469.74,3054.12,118.1,0.98,640,635,shopping,Consider reducing shopping expenditures to build a stronger balance.
+CUST00068,2025-01-31,46,Self-employed,858.14,,,2137.95,2159.17,109.99,3.42,735,730,shopping,Small positive flow. Track shopping for more savings opportunities.
+CUST00069,2025-01-31,26,Self-employed,,7959.95,6766.92,2900.58,4093.61,72.28,0.67,679,684,education,Positive cash flow! Look for ways to maximize education savings.
+CUST00070,2025-01-31,23,Teacher,500.0,,,1702.18,1163.98,0.0,-0.46,593,603,education,Re-evaluate education spending and consider reducing other expenses.
+CUST00071,2025-01-31,37,Teacher,6357.9,6558.03,6125.15,9590.33,10023.21,67.54,0.42,690,695,shopping,Healthy balance. Smart shopping could further boost your savings.
+CUST00072,2025-01-31,39,Finance,6551.95,8002.71,7723.33,24435.7,24715.08,145.32,0.45,596,606,education,Excellent financial health! Consider diversifying your education investment portfolio.
+CUST00073,2025-01-31,50,Retail,1541.63,2124.8,1919.26,6379.93,6585.46,69.17,0.82,752,747,healthcare,Manage healthcare costs well. Keep up this steady savings pace.
+CUST00074,2025-01-31,22,Student,,5043.56,8999.04,13179.47,9223.99,54.51,0.3,622,612,education,Watch education spending; ensure it aligns with your goals.
+CUST00075,2025-01-31,22,Healthcare,5918.88,10502.09,4888.01,9746.78,15360.87,453.32,2.29,660,650,education,Fantastic financial performance! Maximize education savings or explore other investments.
+CUST00076,2025-01-31,18,Healthcare,3186.17,3568.48,3349.19,5009.77,5229.06,106.74,1.26,746,736,shopping,Good spending control. Continue to find deals in shopping for savings.
+CUST00077,2025-01-31,30,Finance,4151.39,5740.4,3370.38,717.02,3087.03,40.43,0.63,714,704,education,Strong credit influx! Keep an eye on education expenses for stability.
+CUST00078,2025-01-31,41,Teacher,4993.16,7525.81,3553.29,1416.7,5389.21,87.66,0.99,594,584,utilities,Excellent cash flow. Consider ways to optimize your utility bills.
+CUST00079,2025-01-31,45,Teacher,3860.49,4611.21,8155.53,7048.82,3504.5,75.3,0.65,706,211,dining,Reduce dining out to improve your overall financial health.
+CUST00080,2025-01-31,52,Student,6724.8,8566.76,17204.9,24373.72,15735.58,264.67,0.81,692,702,shopping,Significant shopping spend. Prioritize needs to maintain strong balance.
+CUST00081,2025-01-31,27,Technician,4092.16,4675.16,3108.92,8658.58,10224.82,494.32,3.85,655,665,entertainment,Great month! Explore investment options or build an entertainment fund.
+CUST00082,2025-01-31,27,Teacher,2248.98,2720.06,2875.78,456.32,300.6,11.71,0.37,711,706,groceries,Cut back on groceries and other spending to avoid overdraft.
+CUST00083,2025-01-31,36,Student,5020.55,,,9236.15,7657.02,242.67,1.59,695,685,dining,Monitor dining expenses closely to prevent future balance drops.
+CUST00084,2025-01-31,45,Retail,2396.85,3031.95,4412.53,2667.04,1286.46,59.78,1.06,726,721,shopping,Drastically reduce shopping to build up your depleted balance.
+CUST00085,2025-01-31,45,Technician,5479.35,6119.47,6007.98,11156.86,11268.35,22.43,0.13,710,705,groceries,Healthy balance. Smart grocery shopping could further boost your savings.
+CUST00086,2025-01-31,46,Teacher,5313.82,7343.13,8452.03,10435.51,9326.61,90.21,0.51,689,684,groceries,Keep an eye on grocery spending to maintain your healthy balance.
+CUST00087,2025-01-31,30,Manager,2431.01,3358.34,2380.02,1684.95,2663.28,90.63,1.83,769,774,healthcare,Good credit flow! Focus on healthcare budget to increase savings.
+CUST00088,2025-01-31,36,Retail,4028.9,4034.51,5113.12,1576.46,497.85,5.61,0.1,712,717,healthcare,Urgent: review healthcare costs to avoid running out of funds.
+CUST00089,2025-01-31,37,Healthcare,4165.97,6473.1,5075.48,14401.84,15799.45,0.0,-0.17,636,641,healthcare,Excellent balance! Consider future healthcare investments for long-term security.
+CUST00090,2025-01-31,51,Self-employed,2903.82,2982.04,2178.72,4918.37,5721.69,78.22,1.0,665,675,utilities,Good month! Look into energy-saving options to lower utility bills.
+CUST00091,2025-01-31,18,Engineer,4547.06,5580.85,5403.92,4503.44,4680.36,0.0,-0.73,722,717,dining,"Fine month, but review dining expenses for potential savings."
+CUST00092,2025-01-31,35,Self-employed,5503.04,5933.88,12041.64,4752.38,-1355.39,342.38,3.31,629,1034,education,Critical: Drastically cut education and other spending to recover balance.
+CUST00093,2025-01-31,55,Teacher,4322.6,6338.07,5815.31,2549.0,3071.76,79.27,0.9,712,722,shopping,Good inflow. Carefully manage shopping to boost your overall balance.
+CUST00094,2025-01-31,33,Healthcare,5552.03,7516.66,3584.3,16172.32,20104.68,327.07,1.4,686,681,transport,Outstanding financial health! Consider investing or saving more for future transport.
+CUST00095,2025-01-31,41,Retail,7926.17,9415.74,9733.22,7433.36,7115.88,163.52,0.98,644,649,shopping,Monitor shopping closely to maintain your current healthy balance.
+CUST00096,2025-01-31,33,Retail,4958.81,5767.51,6393.35,18959.02,18333.18,93.61,0.38,721,726,education,Excellent balance! Be mindful of education expenses to sustain growth.
+CUST00097,2025-01-31,38,Self-employed,2163.96,2364.25,4164.63,2339.37,538.99,85.44,1.85,687,697,transport,Urgent: reduce transport costs to avoid depleting your funds.
+CUST00098,2025-01-31,38,Manager,3579.82,4598.85,3508.03,5003.34,6094.16,174.41,1.85,740,735,entertainment,"Positive month! Enjoy entertainment, but prioritize increasing your savings."
+CUST00099,2025-01-31,22,Engineer,3054.29,3604.58,7779.93,5650.19,1474.84,0.0,-1.06,686,696,shopping,Seriously reduce shopping expenditure to avoid further balance decrease.
+CUST00100,2025-01-31,39,Teacher,5018.28,5477.14,6427.7,4896.03,3945.48,128.06,1.25,641,631,groceries,
+CUST00101,2025-01-31,49,Engineer,2203.95,2767.29,2951.31,373.28,189.26,7.83,0.25,641,651,utilities,Monitor utility spending; aim to increase your end balance.
+CUST00102,2025-01-31,37,Manager,3605.37,3779.01,2504.98,4920.26,6194.29,34.66,0.4,506,516,utilities,Solid financial performance! Keep managing utilities effectively.
+CUST00103,2025-01-31,18,Student,1820.31,2547.15,1494.4,6116.12,7168.87,90.87,1.06,615,620,education,
+CUST00104,2025-01-31,18,Engineer,3810.97,3972.63,3581.64,3374.12,3765.11,161.66,2.25,724,729,education,Good balance growth. Ensure education costs remain sustainable.
+CUST00105,2025-01-31,54,Teacher,,3923.92,4454.71,7036.13,6505.34,0.0,-0.6,667,657,healthcare,Healthcare debits were high; monitor this for next month.
+CUST00106,2025-01-31,35,Retail,1937.22,3375.6,2318.07,2735.14,3792.67,59.9,0.99,724,719,shopping,Good balance. Consider reviewing shopping habits for more savings.
+CUST00107,2025-01-31,40,Retail,3384.89,4924.56,3788.75,8931.48,10067.29,500.82,3.75,640,635,transfer,Impressive balance growth! Consider setting new savings goals.
+CUST00108,2025-01-31,33,Finance,1422.95,1628.86,1017.99,4201.44,4812.31,68.56,1.19,653,648,dining,Steady finances. Enjoy your dining experiences responsibly.
+CUST00109,2025-01-31,72,Healthcare,4194.31,6107.88,148981.88445679165,15054.47,15171.87,226.11,1.08,735,740,entertainment,Strong financial position! Continue to enjoy entertainment wisely.
+CUST00110,2025-01-31,53,Technician,4590.78,4604.39,9738.91,6752.55,1618.03,13.61,0.12,760,770,healthcare,Healthcare costs significantly impacted your balance. Review spending.
+CUST00111,2025-01-31,61,Retail,4399.01,4662.31,1792.81,8298.92,11168.41,0.0,-0.43,615,605,shopping,Excellent balance. Smart shopping habits are paying off!
+CUST00112,2025-01-31,34,Technician,5327.4,7673.94,5061.25,11088.51,13701.19,251.75,1.36,729,724,healthcare,Healthy balance! Maintain good control over healthcare expenses.
+CUST00113,2025-01-31,42,Retail,5453.59,5880.43,4236.44,16899.28,18543.27,254.53,1.13,667,672,healthcare,"Outstanding balance! Continue your smart spending, especially on healthcare."
+CUST00114,2025-01-31,36,Unemployed,4773.11,5558.96,7779.17,15852.73,13632.52,0.0,-0.23,635,630,education,High debits; check if education costs can be optimized.
+CUST00115,2025-01-31,50,Engineer,3315.71,4240.69,6337.85,2782.18,685.03,93.55,1.35,706,711,shopping,Very low balance. Reconsider shopping expenses for next month.
+CUST00116,2025-01-31,56,Manager,1557.26,1775.18,3694.06,5989.13,4070.25,123.02,1.61,766,756,entertainment,Entertainment spending was significant. Prioritize saving over spending.
+CUST00117,2025-01-31,31,Engineer,500.0,610.75,866.88,377.19,121.07,1.97,0.2,639,634,entertainment,Balance is very low. Reduce entertainment costs drastically.
+CUST00118,2025-01-31,34,Healthcare,2670.52,2670.52,5628.76,2576.67,-381.57,0.0,-0.39,594,604,shopping,Negative balance! Immediately cut shopping to prevent further debt.
+CUST00119,2025-01-31,18,Finance,4023.85,4342.15,1498.79,2701.99,5545.35,110.93,1.6,734,724,shopping,Healthy balance. Smart choices on shopping are beneficial.
+CUST00120,2025-01-31,39,Finance,6243.35,6573.36,2469.51,4309.48,8413.32,319.03,3.02,630,620,shopping,Great balance. Your shopping habits are financially sound.
+CUST00121,2025-01-31,41,Manager,656.48,997.02,1250.79,-66.84,-320.61,13.02,1.42,815,805,dining,Your balance is negative. Reduce dining expenses immediately.
+CUST00122,2025-01-31,56,Manager,3170.57,3898.66,2210.75,9556.92,11244.83,306.38,2.33,692,702,education,Excellent savings! Education investments are paying off long-term.
+CUST00123,2025-01-31,41,Retail,500.0,561.05,2239.22,948.71,-729.47,39.55,2.69,628,1038,dining,Significant overdraft. Drastically cut dining expenses immediately.
+CUST00124,2025-01-31,32,Self-employed,1975.16,2044.14,1895.01,6541.06,6690.19,68.98,0.81,691,696,healthcare,Good balance. Keep monitoring healthcare expenses carefully.
+CUST00125,2025-01-31,41,Self-employed,,600.52,973.1,471.91,99.33,31.94,3.07,676,671,entertainment,Balance is very low. Limit entertainment spending next month.
+CUST00126,2025-01-31,18,Finance,2334.96,2917.52,5097.8,8143.06,5962.77,334.65,3.12,664,674,healthcare,Healthcare debits were substantial. Review for potential savings.
+CUST00127,2025-01-31,18,Retail,2178.71,2419.91,1778.38,4494.34,5135.87,24.12,0.35,796,801,transport,Good balance growth. Keep transport costs efficient.
+CUST00128,2025-01-31,31,Manager,5884.15,,,10414.91,-929.98,242.87,1.39,677,667,education,Overdraft due to high education costs. Seek financial advice.
+CUST00129,2025-01-31,37,Healthcare,5470.26,7421.01,4053.12,7063.82,10431.7,15.92,0.11,577,587,transport,Solid balance. Your transport spending seems well managed.
+CUST00130,2025-01-31,33,Retail,2178.04,2552.63,4419.01,3248.68,1382.3,203.75,3.64,674,669,groceries,"High debits, especially groceries. Consider budgeting more tightly."
+CUST00131,2025-01-31,49,Healthcare,983.97,1125.39,2778.55,4034.64,2381.48,68.23,1.34,729,724,dining,High dining debits. Review spending to improve your balance.
+CUST00132,2025-01-31,34,Retail,4522.25,6503.82,3551.16,12052.26,15004.93,234.52,1.28,650,655,healthcare,Impressive balance! Managing healthcare costs effectively benefits you.
+CUST00133,2025-01-31,34,Manager,4463.46,5182.76,8581.3,4132.81,734.27,213.89,2.35,633,623,education,"High debits, possibly education. Work on building your balance."
+CUST00134,2025-01-31,31,Student,7708.55,13544.5,5672.67,25163.15,33034.98,0.0,-0.59,708,718,transfer,Fantastic savings! Consider investment opportunities for your large balance.
+CUST00135,2025-01-31,40,Student,3614.09,4570.64,1885.63,9621.0,12306.01,0.0,-0.73,623,628,utilities,Excellent financial health! Your utility management is commendable.
+CUST00136,2025-01-31,37,Manager,3378.95,4238.04,1391.21,11833.77,14680.6,106.96,0.67,736,726,healthcare,Great balance! Continue making smart choices with healthcare.
+CUST00137,2025-01-31,44,Manager,3533.58,3583.33,7840.17,5197.15,940.3,0.0,-1.46,694,704,transport,Transport costs are high. Explore ways to reduce expenditure.
+CUST00138,2025-01-31,21,Teacher,3220.67,3333.27,2774.57,7927.46,8486.15,112.6,1.01,723,728,shopping,Good balance. Manage shopping to grow your savings further.
+CUST00139,2025-01-31,29,Finance,4499.11,5909.45,2322.13,11318.68,14906.0,359.31,2.13,837,827,shopping,Strong financial position! Smart shopping habits are a plus.
+CUST00140,2025-01-31,30,Finance,639.69,878.31,950.86,589.45,516.9,26.94,1.87,613,618,entertainment,Low balance. Curtail entertainment spending to recover quickly.
+CUST00141,2025-01-31,46,Unemployed,6985.91,10829.4,11397.8,21745.22,21176.82,760.36,2.39,647,657,groceries,"High debits, particularly groceries. Monitor spending closely."
+CUST00142,2025-01-31,37,Unemployed,890.27,1171.82,1665.8,1718.38,1224.4,42.99,1.51,586,596,shopping,High shopping debits compared to credits. Review spending.
+CUST00143,2025-01-31,50,Manager,5043.7,7337.6,10161.05,3647.7,824.25,0.0,-0.48,539,529,entertainment,Significant entertainment spending. Focus on increasing your balance.
+CUST00144,2025-01-31,45,Retail,5602.49,7085.44,3914.5,17808.63,20979.57,158.31,0.64,685,680,shopping,Excellent balance! Your shopping choices are financially savvy.
+CUST00145,2025-01-31,30,Engineer,7354.4,7482.86,4004.36,7134.74,10613.24,33.54,0.23,690,695,education,Healthy balance. Education investments are well-supported.
+CUST00146,2025-01-31,48,Manager,4605.78,6072.12,5299.02,11063.81,11836.91,0.0,-0.15,704,714,entertainment,Strong balance. Enjoy entertainment responsibly and within budget.
+CUST00147,2025-01-31,43,Manager,5289.68,7165.89,4362.52,3067.6,5870.97,0.0,-0.03,764,759,groceries,Good balance. Keep managing groceries effectively for future savings.
+CUST00148,2025-01-31,36,Teacher,5845.24,6894.4,11392.02,19792.31,15294.68,188.14,0.71,661,656,shopping,High shopping debits. Review purchases to improve your balance.
+CUST00149,2025-01-31,36,Technician,6645.41,10780.94,4563.63,4521.83,10739.14,298.58,1.99,772,767,healthcare,
+CUST00150,2025-01-31,30,Unemployed,4478.46,6157.6,3388.65,10843.62,13612.57,264.44,1.58,645,635,healthcare,Excellent balance growth! Your healthcare spending is sustainable.
+CUST00151,2025-01-31,18,Unemployed,3630.3,3716.85,1880.45,1912.43,3748.83,0.0,-0.95,716,711,groceries,Monitor your grocery spending to increase savings further.
+CUST00152,2025-01-31,50,Manager,4548.0,5190.19,5238.15,5017.78,4969.82,305.01,3.08,678,668,transport,Keep an eye on transport costs to improve your balance.
+CUST00153,2025-01-31,49,Engineer,3008.59,3611.35,7858.71,1071.61,-3175.75,0.0,-0.23,609,604,education,High education spending; consider adjusting other expenses next month.
+CUST00154,2025-01-31,63,Student,1188.72,1504.7,43920.52224510815,1639.58,1170.08,82.96,2.71,665,670,shopping,"Your shopping expenses are a bit high, review them."
+CUST00155,2025-01-31,39,Finance,6277.56,9948.05,8136.26,4252.35,6064.13,373.33,2.7,735,730,shopping,Good credit activity! Maybe reduce shopping to boost savings.
+CUST00156,2025-01-31,28,Manager,,2342.88,1197.23,3625.99,4771.64,24.37,0.41,697,707,shopping,Excellent progress! Continue managing your shopping budget well.
+CUST00157,2025-01-31,19,Engineer,3833.73,4344.24,8242.99,11980.4,8081.65,24.45,0.15,705,710,shopping,"Your shopping increased significantly, consider a budget review soon."
+CUST00158,2025-01-31,42,Manager,7887.17,10132.65,8522.96,30519.75,32129.44,1495.78,3.82,669,659,education,Solid performance! Keep up the great financial management.
+CUST00159,2025-01-31,40,Teacher,5149.68,6031.58,5343.33,8892.56,9580.81,318.41,2.18,646,636,entertainment,"Strong month overall, good balance in entertainment spending."
+CUST00160,2025-01-31,43,Engineer,5143.93,5829.23,9148.26,16790.87,13471.84,128.2,0.57,667,657,education,"Education spending is high, but your balance remains healthy."
+CUST00161,2025-01-31,52,Unemployed,4466.57,4642.47,3741.83,17248.87,18149.51,175.9,0.81,675,685,groceries,Good job managing groceries; strong balance growth observed!
+CUST00162,2025-01-31,34,Self-employed,6159.34,9755.37,6673.84,3807.54,6889.07,213.59,1.6,602,607,transport,Consider ways to optimize your transport costs next month.
+CUST00163,2025-01-31,36,Teacher,2696.63,3617.78,3105.86,960.37,1472.29,0.0,-0.79,693,703,education,Education expenses are notable; try increasing credits next period.
+CUST00164,2025-01-31,39,Self-employed,4361.7,4560.23,6454.19,15685.3,13791.35,50.49,0.25,675,685,education,"Education spending is high, yet your balance is stable."
+CUST00165,2025-01-31,33,Engineer,2106.87,2589.32,1864.5,4866.65,5591.47,12.65,0.17,757,767,groceries,Keep up the good work managing your grocery budget.
+CUST00166,2025-01-31,50,Engineer,3329.08,4984.69,37379.84920245873,11957.03,15277.03,301.19,1.81,743,748,utilities,"Excellent month for savings, utilities spending is well-managed."
+CUST00167,2025-01-31,49,Unemployed,6440.86,,,15541.2,15522.59,343.0,1.52,656,651,entertainment,Debits are close to credits; review entertainment spending carefully.
+CUST00168,2025-01-31,36,Student,5998.17,7897.97,6299.4,9654.88,11253.45,206.42,1.19,718,728,groceries,Healthy balance! Your grocery spending seems well-managed.
+CUST00169,2025-01-31,38,Technician,3756.62,5188.68,2337.23,2961.94,5813.39,106.19,1.32,726,736,dining,Great month overall. Dining expenses are within a good range.
+CUST00170,2025-01-31,41,Technician,3815.47,4749.79,2420.41,13400.06,15729.44,66.91,0.37,621,611,education,Good financial health; education expenses are manageable.
+CUST00171,2025-01-31,28,Retail,2209.57,2766.45,4931.73,2519.48,354.21,20.54,0.39,690,700,education,High education expenses. Look for ways to boost income.
+CUST00172,2025-01-31,65,Self-employed,4185.33,4185.33,4850.47,13549.27,12884.13,0.0,-0.59,672,667,healthcare,"Healthcare spending is high, but your balance is healthy."
+CUST00173,2025-01-31,51,Retail,4153.04,5636.47,2099.58,16829.19,20366.07,0.0,-0.1,671,681,utilities,Strong month for savings! Utilities spending is efficient.
+CUST00174,2025-01-31,29,Unemployed,1604.23,1944.08,3406.92,3365.21,1902.37,19.57,0.37,682,692,entertainment,Debits outpaced credits; review entertainment spending next month.
+CUST00175,2025-01-31,44,Healthcare,1971.57,2273.14,1290.46,6843.35,7826.03,0.0,-0.0,705,700,education,Maintain your current spending habits to grow savings.
+CUST00176,2025-01-31,49,Engineer,500.0,590.9,1438.39,1043.93,196.44,0.0,-0.05,741,731,healthcare,"Healthcare costs are impacting your balance, budget carefully."
+CUST00177,2025-01-31,54,Self-employed,7668.27,7782.22,2508.4,30678.39,35952.21,0.0,-0.68,591,581,shopping,Fantastic savings! Consider a budget for shopping next month.
+CUST00178,2025-01-31,47,Engineer,7971.07,10062.45,23948.08,7694.68,-6190.95,175.81,1.0,716,721,transport,Very high transport debits. Urgent budget review is recommended.
+CUST00179,2025-01-31,38,Finance,1445.16,1459.04,2597.69,5495.38,4356.73,13.88,0.2,620,610,healthcare,Healthcare spending is high; focus on increasing your credits.
+CUST00180,2025-01-31,23,Unemployed,6393.51,7946.09,6673.65,23773.42,25045.86,0.0,-1.34,669,674,healthcare,Excellent balance! Healthcare expenses are well-covered.
+CUST00181,2025-01-31,30,Self-employed,4672.53,4821.63,2510.51,16825.73,19136.85,0.0,-0.34,709,704,utilities,Good job managing your utilities; strong savings accumulated.
+CUST00182,2025-01-31,62,Healthcare,7203.84,8926.06,8773.51,11411.08,11563.63,534.67,2.7,627,632,utilities,Your utilities spending is proportional; balance remains steady.
+CUST00183,2025-01-31,39,Self-employed,5564.19,6827.57,6629.33,8924.71,9122.95,243.49,1.57,626,631,shopping,Keep up the consistent financial management and shopping habits.
+CUST00184,2025-01-31,46,Manager,603.64,,,272.36,-853.07,0.0,-1.17,629,619,education,Education costs are high; prioritize increasing your income.
+CUST00185,2025-01-31,47,Self-employed,5407.93,6515.12,2611.71,15158.84,19062.26,339.22,1.59,686,681,education,Solid savings growth! Education spending is well-managed.
+CUST00186,2025-01-31,47,Student,5494.8,6124.87,12225.16,15616.23,9515.94,0.0,-0.97,612,622,shopping,Shopping debits are very high; review your spending habits.
+CUST00187,2025-01-31,44,Teacher,2705.95,2896.31,2909.72,9744.07,9730.66,0.0,-0.98,681,686,healthcare,"Maintain current spending, healthcare costs are stable."
+CUST00188,2025-01-31,50,Self-employed,500.0,800.64,1194.72,1040.58,646.5,34.33,1.9,670,665,shopping,Review shopping expenses; they are impacting your low balance.
+CUST00189,2025-01-31,44,Self-employed,3325.95,4277.9,5535.9,671.83,-586.17,124.49,2.58,704,699,groceries,"Groceries debits are high, resulting in a negative balance."
+CUST00190,2025-01-31,56,Teacher,3055.01,3820.77,7914.75,5991.0,1897.01,0.0,-0.44,679,684,utilities,High utilities debits; try to reduce discretionary spending.
+CUST00191,2025-01-31,56,Finance,5474.36,6036.59,6520.43,18049.83,17565.99,562.23,2.39,707,697,transport,Your transport spending is manageable; overall balance is good.
+CUST00192,2025-01-31,41,Self-employed,4524.64,6117.91,5878.01,13614.81,13854.71,0.0,-0.58,661,666,healthcare,Good management of healthcare costs; maintain this trend.
+CUST00193,2025-01-31,18,Finance,3173.12,4040.27,3986.25,8350.83,8404.84,0.0,-2.12,620,610,shopping,Keep up the steady progress. Shopping debits are controlled.
+CUST00194,2025-01-31,45,Retail,6642.77,10187.32,5253.97,13835.57,18768.92,327.0,1.38,628,638,transport,Excellent credit activity! Transport spending is reasonable.
+CUST00195,2025-01-31,21,Retail,3195.82,3315.88,1979.62,4542.27,5878.53,44.54,0.57,609,604,groceries,"Good job managing groceries, helping to grow your balance."
+CUST00196,2025-01-31,56,Finance,3431.15,3499.43,1775.54,1589.43,3313.32,68.28,1.36,680,675,education,"Good credit and debit balance, education spending is fine."
+CUST00197,2025-01-31,58,Unemployed,3902.45,4459.18,4725.27,14458.11,14192.02,0.0,-0.57,617,612,utilities,Utilities spending is high. Look for ways to conserve.
+CUST00198,2025-01-31,27,Technician,4908.18,5554.21,9192.99,5498.7,1859.92,61.55,0.56,731,736,shopping,Shopping debits significantly impacted your end balance. Review.
+CUST00199,2025-01-31,41,Unemployed,500.0,634.58,1802.34,1492.19,324.43,11.21,0.53,718,723,shopping,Very high shopping debits for your credit. Budget needed.
+CUST00200,2025-01-31,48,Teacher,3906.39,5148.47,2493.79,12960.61,15615.29,365.52,2.06,599,589,entertainment,Excellent savings! Entertainment spending is well within limits.
+CUST00201,2025-01-31,46,Engineer,1090.88,1288.19,2723.1,4292.75,2857.84,63.45,1.15,670,675,education,Watch your education spending to improve your balance.
+CUST00202,2025-01-31,40,Technician,2545.19,3762.55,3017.31,8596.98,9342.22,164.63,1.35,707,697,education,Great job maintaining a healthy balance and managing education costs.
+CUST00203,2025-01-31,21,Teacher,3158.51,3163.5,2333.1,5152.85,5983.25,4.99,0.06,621,611,entertainment,
+CUST00204,2025-01-31,45,Teacher,4278.87,4719.54,3784.12,16982.06,17917.48,297.52,1.39,800,795,utilities,Your finances are strong! Keep up the smart utility management.
+CUST00205,2025-01-31,44,Finance,5801.55,11445.99,12445.07,5875.77,4876.69,188.47,1.1,719,714,shopping,
+CUST00206,2025-01-31,31,Finance,1298.73,1565.77,2159.98,3925.44,3331.23,3.29,0.06,657,647,shopping,Review shopping habits to improve your monthly cash flow.
+CUST00207,2025-01-31,43,Student,4626.73,5986.28,5328.28,14156.44,14814.43,299.63,1.51,730,720,shopping,
+CUST00208,2025-01-31,51,Healthcare,2256.5,3216.62,3823.62,4420.97,3813.97,14.48,0.19,621,616,entertainment,High entertainment spending this month. Try to cut back.
+CUST00209,2025-01-31,40,Student,4679.06,,,10022.89,9399.45,0.0,-0.3,715,710,education,Monitor education debits; keep your balance in check.
+CUST00210,2025-01-31,48,Manager,5915.24,6344.41,5502.04,8254.65,9097.02,151.7,1.05,736,741,shopping,Solid balance! Continue smart financial management and shopping decisions.
+CUST00211,2025-01-31,43,Self-employed,6002.77,7612.52,10554.57,8822.74,5880.68,144.98,0.89,720,710,dining,Excessive dining expenses! Plan to reduce spending next month.
+CUST00212,2025-01-31,35,Engineer,500.0,528.17,1074.9,1147.38,600.65,28.17,1.71,599,609,transport,Your transport spending is high; find ways to save.
+CUST00213,2025-01-31,40,Healthcare,944.84,1447.4,1290.69,1718.24,1874.94,109.12,3.57,657,662,groceries,
+CUST00214,2025-01-31,39,Retail,4439.55,4709.93,3766.38,17185.66,18129.22,4.38,0.02,664,654,education,Excellent savings! Continue managing education costs effectively.
+CUST00215,2025-01-31,53,Teacher,3961.64,5769.85,4878.15,8925.92,9817.62,0.0,-0.25,668,663,healthcare,Strong balance this month. Good management of healthcare costs.
+CUST00216,2025-01-31,44,Student,1268.92,1275.93,2284.7,734.69,-274.08,7.01,0.35,631,621,utilities,Urgent: address utility costs to avoid negative balance next month.
+CUST00217,2025-01-31,66,Teacher,5618.62,6347.28,6500.13,11474.76,11321.91,0.0,-0.8,675,670,entertainment,Watch entertainment spending to maintain your healthy balance.
+CUST00218,2025-01-31,23,Unemployed,1048.42,1090.25,1306.55,3127.19,2910.89,17.64,0.42,611,601,healthcare,Healthcare expenses are a bit high. Prioritize essential spending.
+CUST00219,2025-01-31,62,Finance,643.0,666.8,1418.09,928.34,177.06,8.57,0.54,682,692,dining,Dining expenses are high compared to credits. Be cautious.
+CUST00220,2025-01-31,29,Healthcare,4760.68,6060.48,5987.01,9540.06,9613.52,74.52,0.48,649,659,dining,Stable finances! Your dining spending is well within limits.
+CUST00221,2025-01-31,23,Unemployed,500.0,569.38,1421.71,648.34,-203.99,16.93,1.41,755,750,education,Your education costs led to a negative balance. Be careful.
+CUST00222,2025-01-31,32,Engineer,7421.34,9043.8,15806.59,22942.63,16179.84,168.63,0.53,684,694,transport,High transport debits. Review budget to prevent overspending.
+CUST00223,2025-01-31,27,Self-employed,4322.37,4565.24,7910.16,4012.45,667.53,17.12,0.2,689,684,dining,Dining expenses are too high. Reduce them to improve savings.
+CUST00224,2025-01-31,49,Self-employed,6063.56,6635.65,4436.29,19746.88,21946.25,535.04,2.07,710,720,utilities,Excellent financial health! Smart utility management contributed to savings.
+CUST00225,2025-01-31,46,Student,3033.03,3584.99,17162.160546010346,9239.34,9831.31,123.2,0.97,639,629,shopping,Good balance achieved. Consider increasing savings beyond shopping.
+CUST00226,2025-01-31,30,Unemployed,2690.85,3515.22,3438.28,5481.24,5558.18,0.0,-0.41,763,768,shopping,Shopping expenses are close to credits. Keep monitoring this.
+CUST00227,2025-01-31,35,Self-employed,3250.16,3373.7,12027.9,3436.62,-5217.58,119.76,1.79,713,718,entertainment,Significant overspending in entertainment. Seek financial advice immediately.
+CUST00228,2025-01-31,51,Manager,2241.01,2573.03,2360.8,7830.7,8042.93,150.72,1.47,701,711,groceries,Maintain good grocery habits for continued financial stability.
+CUST00229,2025-01-31,31,Manager,2194.18,3439.68,7578.75,5490.9,1351.83,0.0,-0.12,586,596,healthcare,Healthcare expenses are very high. Look for ways to save.
+CUST00230,2025-01-31,50,Healthcare,6352.7,9127.25,12174.28,7233.7,4186.68,292.45,1.82,631,626,education,High education debits. Re-evaluate expenses to boost balance.
+CUST00231,2025-01-31,45,Student,4001.12,5383.04,4228.7,3167.46,4321.8,154.49,1.84,625,630,dining,Your dining expenses are balanced. Keep up the good work.
+CUST00232,2025-01-31,59,Finance,3356.27,7919.12,6699.3,8884.06,10103.89,10.08,0.06,617,627,education,Great job managing education costs and growing your balance.
+CUST00233,2025-01-31,51,Unemployed,965.85,1018.03,1068.65,756.19,705.57,52.18,3.03,710,720,shopping,Shopping debits are high for your income. Exercise caution.
+CUST00234,2025-01-31,44,Engineer,4852.08,5891.87,8537.59,14771.24,12125.52,174.16,0.85,646,636,transport,Manage transport expenses to avoid high debits next month.
+CUST00235,2025-01-31,45,Healthcare,5238.2,6897.26,16152.92,15894.08,6638.43,0.0,-0.28,723,733,utilities,Utility debits are very high. Review and reduce spending now.
+CUST00236,2025-01-31,26,Technician,7379.82,9916.26,5952.74,17116.28,21079.8,444.03,1.67,617,627,healthcare,Strong financial position! Good job managing healthcare costs.
+CUST00237,2025-01-31,20,Technician,4138.96,5467.57,2608.84,15973.39,18832.12,412.16,1.96,651,661,education,Excellent savings! Education spending is well-managed.
+CUST00238,2025-01-31,45,Student,3419.85,4679.32,6362.46,4702.47,3019.33,201.06,2.19,631,621,shopping,Shopping expenses are too high. Cut back to improve balance.
+CUST00239,2025-01-31,39,Student,3886.23,4513.65,9054.66,13729.4,9188.39,410.16,2.3,738,728,education,High education costs affected your balance. Budget carefully.
+CUST00240,2025-01-31,18,Retail,2264.53,2264.53,3554.33,6061.66,4771.86,0.0,-1.53,637,627,entertainment,Entertainment debits are high. Consider reducing non-essential spending.
+CUST00241,2025-01-31,46,Teacher,4771.64,4789.62,5612.46,13208.85,12386.01,17.98,0.1,609,614,education,Education spending is manageable. Focus on building savings further.
+CUST00242,2025-01-31,59,Engineer,662.88,792.39,2367.87,2265.04,689.55,2.14,0.07,662,667,utilities,Your utility spending is excessive. Please review your budget now.
+CUST00243,2025-01-31,37,Engineer,8195.09,8232.47,9661.5,25100.32,23671.29,10.0,0.03,697,702,dining,High dining expenses reduced your balance. Spend wisely next month.
+CUST00244,2025-01-31,52,Finance,1786.4,2012.96,2569.92,293.89,-263.08,0.0,-0.53,713,703,utilities,Negative balance due to utilities. Exercise caution next month.
+CUST00245,2025-01-31,47,Engineer,1425.24,1560.75,3039.26,1382.77,-95.74,0.0,-0.18,792,782,shopping,Shopping led to a negative balance. Prioritize essential spending.
+CUST00246,2025-01-31,40,Self-employed,6274.32,8389.79,6237.67,10448.1,12600.22,505.96,2.76,718,723,utilities,Great job managing utilities! Keep boosting your savings.
+CUST00247,2025-01-31,18,Self-employed,4500.89,8896.65,9150.23,6660.74,6407.16,152.51,0.99,714,704,education,Keep track of education costs to maintain a steady balance.
+CUST00248,2025-01-31,19,Teacher,500.0,719.18,21043.246928181325,1671.88,993.1,61.27,2.63,694,684,shopping,Shopping debits are high. Consider reducing non-essential purchases.
+CUST00249,2025-01-31,21,Healthcare,5531.29,5927.91,6468.66,10194.8,9654.05,0.0,-0.09,678,673,shopping,Shopping debits are close to credits. Watch spending habits.
+CUST00250,2025-01-31,60,Engineer,3766.05,4710.34,2805.19,3779.73,5684.88,17.79,0.21,702,692,dining,Good balance! Dining expenses are well within your means.
+CUST00251,2025-01-31,33,Teacher,500.0,1029.6,1796.82,908.01,140.8,86.63,4.68,743,738,groceries,Groceries were high; track spending closely next month.
+CUST00252,2025-01-31,23,Student,6305.17,,,2370.11,-2527.21,71.14,0.82,667,677,healthcare,Your account is overdrawn. Please address this promptly.
+CUST00253,2025-01-31,37,Student,5431.83,6025.48,15148.08,11691.3,2568.69,289.3,1.66,697,692,transport,Transport costs were high. Review spending habits.
+CUST00254,2025-01-31,57,Engineer,3518.16,3839.91,1771.43,2353.27,4421.75,31.42,0.51,625,630,healthcare,Good financial management! Keep up the excellent work.
+CUST00255,2025-01-31,32,Healthcare,6759.5,7266.32,9395.37,21157.32,19028.27,82.19,0.29,681,676,entertainment,Entertainment spending was significant. Mind your budget.
+CUST00256,2025-01-31,31,Self-employed,936.19,985.89,1319.76,837.16,503.29,12.31,0.68,700,690,groceries,Groceries pushed debits higher; review next month.
+CUST00257,2025-01-31,42,Manager,6110.73,6669.19,2571.79,5764.14,9861.54,237.81,1.95,733,723,utilities,Excellent savings this month. Keep up the momentum!
+CUST00258,2025-01-31,49,Technician,2712.81,3131.22,2962.35,154.39,323.26,45.04,1.39,744,754,entertainment,Spending almost matched income. Focus on savings.
+CUST00259,2025-01-31,47,Unemployed,500.0,,,1744.14,1079.48,0.0,-1.43,692,687,healthcare,Healthcare expenses were high. Consider budgeting more.
+CUST00260,2025-01-31,32,Retail,1432.8,1451.91,3064.06,2780.71,1168.56,0.0,-1.96,720,730,entertainment,Entertainment spending exceeded income. Adjust your budget.
+CUST00261,2025-01-31,33,Technician,4105.88,5489.24,2368.76,8385.54,11506.02,394.96,2.93,675,670,shopping,Strong financial performance! Continue smart spending habits.
+CUST00262,2025-01-31,25,Technician,6033.42,9007.65,4459.52,4219.45,8767.58,180.05,1.38,738,748,groceries,Excellent management of groceries and overall finances.
+CUST00263,2025-01-31,35,Student,500.0,510.09,1853.52,2022.08,678.65,10.09,0.4,734,729,entertainment,Entertainment costs were high. Review your spending.
+CUST00264,2025-01-31,61,Healthcare,6551.96,9329.39,5451.44,7398.56,11276.51,260.19,1.58,705,715,healthcare,
+CUST00265,2025-01-31,55,Healthcare,6017.98,6502.81,2871.02,20621.16,24252.95,484.83,1.82,742,747,utilities,Outstanding savings growth! Keep up the great work.
+CUST00266,2025-01-31,37,Teacher,5181.91,5638.01,2266.27,5492.22,8863.95,289.45,2.67,606,616,shopping,Smart shopping choices helped boost your balance.
+CUST00267,2025-01-31,38,Healthcare,3205.12,4021.82,5394.32,7825.02,6452.53,83.52,0.71,707,697,shopping,Shopping expenses exceeded income. Consider adjusting budget.
+CUST00268,2025-01-31,33,Student,903.26,1003.88,1069.86,3480.2,3414.22,56.67,1.28,696,701,healthcare,Debits slightly exceeded credits; monitor healthcare spending.
+CUST00269,2025-01-31,34,Finance,1174.62,1352.06,2483.96,962.26,-169.64,0.0,-1.54,674,679,utilities,Your account is overdrawn. Please address this urgently.
+CUST00270,2025-01-31,18,Unemployed,2507.2,2507.2,3173.45,10104.27,9438.02,0.0,-0.28,682,687,shopping,Shopping debits were high; review for next month.
+CUST00271,2025-01-31,38,Retail,1123.65,1776.29,1950.96,4104.89,3930.22,175.17,3.07,732,727,shopping,Minor overspending this month; track shopping closer.
+CUST00272,2025-01-31,39,Healthcare,3947.17,5346.54,8018.01,3626.89,955.42,44.64,0.5,630,625,utilities,
+CUST00273,2025-01-31,41,Teacher,4515.72,7483.52,6248.22,14972.07,16207.38,438.15,1.99,620,615,transfer,Positive month! Consider setting a new savings goal.
+CUST00274,2025-01-31,31,Student,4656.3,5530.43,6937.75,2976.56,1569.24,213.15,2.57,693,698,shopping,Shopping expenses were notable; plan spending for next month.
+CUST00275,2025-01-31,18,Teacher,6693.91,8049.36,6000.7,13657.12,15705.78,0.0,-0.63,727,737,healthcare,Good balance between healthcare and overall spending.
+CUST00276,2025-01-31,40,Student,1694.13,2098.2,2279.85,4445.0,4263.35,80.14,1.24,673,678,groceries,Groceries contributed to slight overspending; monitor closely.
+CUST00277,2025-01-31,58,Student,1705.87,2551.69,2043.12,1182.3,1690.87,42.09,1.14,645,650,groceries,Managed groceries well; a good month for your finances.
+CUST00278,2025-01-31,49,Student,2912.13,3441.64,1279.57,2512.97,4675.04,58.96,1.0,733,743,education,Excellent month for savings! Consider increasing investments.
+CUST00279,2025-01-31,36,Teacher,2416.43,2525.34,2382.33,1596.86,1739.87,59.72,1.47,699,689,dining,Dining costs balanced well; continue smart spending.
+CUST00280,2025-01-31,40,Healthcare,3041.03,3278.79,1119.99,10316.2,12475.0,237.76,1.78,664,659,utilities,Outstanding savings! Keep building your financial future.
+CUST00281,2025-01-31,36,Manager,2755.87,2921.38,3696.41,7524.46,6749.44,165.51,1.61,655,660,utilities,Utilities were high; review usage for next month.
+CUST00282,2025-01-31,55,Self-employed,4608.93,4849.49,5487.49,3890.38,3252.38,109.6,1.27,648,643,entertainment,
+CUST00283,2025-01-31,34,Retail,3468.5,4131.52,51303.184283641465,4201.29,2401.82,77.6,0.94,682,687,education,Education expenses were substantial; review your budget plan.
+CUST00284,2025-01-31,29,Teacher,2117.42,2888.95,4606.12,3524.69,1807.52,0.0,-0.46,677,667,education,High education costs this month. Consider future budget adjustments.
+CUST00285,2025-01-31,42,Retail,6207.25,6471.57,5009.39,13372.01,14834.19,264.32,1.35,656,651,transport,Solid financial management! Transport costs were balanced.
+CUST00286,2025-01-31,39,Self-employed,4665.68,5678.35,1902.88,17656.58,21432.04,773.85,3.43,626,636,transport,Exceptional savings this month. Your financial health is strong.
+CUST00287,2025-01-31,39,Self-employed,3873.41,4138.39,10464.33,5938.7,-387.24,0.0,-0.35,628,618,education,Account is overdrawn due to high education expenses.
+CUST00288,2025-01-31,39,Engineer,5044.33,6248.23,4311.68,5702.09,7638.64,294.88,2.53,716,721,utilities,Utilities managed well. Keep up the positive balance!
+CUST00289,2025-01-31,33,Self-employed,7975.07,9665.76,5887.88,6402.14,10180.02,0.0,-0.64,667,677,education,Good balance with education costs; strong financial standing.
+CUST00290,2025-01-31,52,Unemployed,500.0,548.57,1077.17,1168.83,640.23,20.7,1.22,736,731,education,Education expenses were high. Plan for next period.
+CUST00291,2025-01-31,48,Unemployed,500.0,573.3,1373.82,660.44,-140.08,0.25,0.02,723,733,utilities,Account overdrawn. Address utilities and spending immediately.
+CUST00292,2025-01-31,47,Healthcare,2785.06,3319.43,4813.79,1229.72,-264.63,0.0,-0.82,661,651,dining,Overdrawn due to dining and other expenses. Act now.
+CUST00293,2025-01-31,48,Technician,5533.01,6310.41,12976.09,12379.31,5713.63,0.0,-0.16,636,646,utilities,Very high utilities spending. Review your monthly budget.
+CUST00294,2025-01-31,43,Retail,4570.49,5168.4,7385.37,2759.88,542.9,120.24,1.54,720,725,groceries,Groceries and overall debits were high; budget tightly.
+CUST00295,2025-01-31,33,Self-employed,2638.16,2798.02,3829.96,3781.78,2749.83,159.86,2.49,769,774,groceries,Groceries were a major debit. Plan for next month.
+CUST00296,2025-01-31,29,Technician,2556.47,3410.01,1700.77,6137.87,7847.11,146.66,1.56,714,709,education,Great job saving! Education costs were well-managed.
+CUST00297,2025-01-31,29,Teacher,5387.97,5726.96,10236.77,13618.74,9108.93,0.0,-0.67,685,695,education,
+CUST00298,2025-01-31,41,Technician,4815.96,4815.96,6136.99,7319.15,5998.12,0.0,-0.87,719,729,shopping,Shopping costs were notable. Consider cutting back.
+CUST00299,2025-01-31,36,Finance,4781.09,6813.51,5828.1,13584.85,14570.26,20.38,0.1,683,688,transport,
+CUST00300,2025-01-31,43,Teacher,4506.58,6189.81,8221.11,9435.0,7403.7,153.17,0.99,608,613,healthcare,Healthcare expenses were high. Monitor future spending.
+CUST00301,2025-01-31,40,Student,3705.46,4737.63,4235.59,11012.55,11514.59,482.46,3.16,701,706,dining,Consider a budget for dining out next month.
+CUST00302,2025-01-31,32,Teacher,3520.55,4034.24,7560.79,12326.72,8800.17,399.05,2.5,686,696,shopping,Watch your shopping expenses closely next period.
+CUST00303,2025-01-31,38,Engineer,500.0,567.75,1196.19,990.9,362.46,18.33,1.19,683,678,entertainment,Review entertainment spending to avoid overdraft.
+CUST00304,2025-01-31,28,Unemployed,1517.11,1614.84,1537.08,4442.04,4519.8,97.73,1.64,656,666,transport,Maintain current spending habits; very stable finances.
+CUST00305,2025-01-31,35,Healthcare,4175.25,4591.41,9504.51,11331.48,6418.38,0.0,-0.12,687,177,education,Monitor your education related expenditures more closely.
+CUST00306,2025-01-31,18,Healthcare,3884.47,5516.22,141320.88282276745,8474.87,7873.91,2.8,0.02,644,649,dining,Your dining expenses are quite high; consider moderation.
+CUST00307,2025-01-31,24,Manager,4928.61,7159.91,13210.76,6124.08,73.22,0.0,-0.52,648,638,education,Be cautious with spending; current balance is very low.
+CUST00308,2025-01-31,51,Self-employed,3468.61,4300.95,2647.23,2731.27,4384.99,0.0,-0.56,593,588,shopping,Great job managing shopping expenses; keep it up!
+CUST00309,2025-01-31,45,Student,2940.78,3606.04,35367.078039056534,8548.89,8283.46,0.0,-1.3,593,598,groceries,Slightly high grocery spending. Perhaps look for deals?
+CUST00310,2025-01-31,37,Teacher,5960.31,7176.85,8612.92,7243.91,5807.84,0.0,-1.69,684,674,shopping,Your shopping debits are high; track discretionary spending.
+CUST00311,2025-01-31,44,Self-employed,3090.9,4744.36,3125.9,6370.2,7988.66,168.57,1.54,633,623,utilities,Excellent management of utilities and overall finances.
+CUST00312,2025-01-31,45,Manager,4058.12,5104.93,6403.18,11079.84,9781.59,128.45,0.8,684,674,education,High education costs. Any ways to reduce future expenses?
+CUST00313,2025-01-31,35,Manager,1710.18,2167.72,3291.26,5393.09,4269.55,158.41,2.14,679,669,healthcare,Healthcare expenses are increasing. Plan for next month.
+CUST00314,2025-01-31,38,Teacher,2685.33,4013.07,2449.0,8981.71,10545.78,263.54,2.07,686,691,transport,Strong financial position. Continue managing transport costs well.
+CUST00315,2025-01-31,25,Technician,4627.95,6742.87,5448.71,6731.33,8025.49,0.0,-0.7,638,633,education,Well-balanced education costs; keep up the good work.
+CUST00316,2025-01-31,53,Manager,3212.28,4528.22,4817.59,10279.74,9990.37,67.8,0.46,657,662,education,Slightly overspent on education. Review your budget.
+CUST00317,2025-01-31,52,Healthcare,2581.28,3406.94,3177.19,6126.54,6356.3,51.2,0.54,781,771,groceries,Consistent grocery spending; good financial health.
+CUST00318,2025-01-31,43,Technician,3912.08,4062.87,5722.57,9751.63,8091.93,121.86,0.89,681,686,entertainment,High entertainment costs. Consider reducing next month.
+CUST00319,2025-01-31,33,Healthcare,3787.73,4537.21,4031.16,10920.43,11426.49,243.43,1.6,621,611,utilities,Utilities are well managed. Keep monitoring for savings.
+CUST00320,2025-01-31,32,Finance,5273.78,5896.21,2842.87,15006.31,18059.65,477.94,2.34,649,654,entertainment,Impressive savings and low entertainment spending. Excellent!
+CUST00321,2025-01-31,58,Student,2989.1,3598.54,4885.29,7938.57,6651.82,0.0,-1.74,688,683,healthcare,Healthcare expenses exceeded credits. Watch spending carefully.
+CUST00322,2025-01-31,37,Self-employed,6349.48,7392.41,6953.08,13298.85,13738.18,221.08,1.08,728,718,shopping,Steady finances. Enjoy your shopping responsibly!
+CUST00323,2025-01-31,43,Healthcare,4746.97,4945.98,8246.74,5929.66,2628.9,0.0,-0.1,736,731,shopping,Significant shopping debits. Review your budget immediately.
+CUST00324,2025-01-31,26,Retail,7153.96,7923.11,8945.24,28301.38,27279.25,0.0,-0.01,550,540,shopping,Very healthy balance. Consider investing some savings.
+CUST00325,2025-01-31,56,Teacher,500.0,791.74,1006.28,505.56,291.02,33.0,2.61,626,631,shopping,Low balance. Curtail shopping to rebuild funds.
+CUST00326,2025-01-31,57,Self-employed,500.0,632.24,1720.41,427.34,-660.82,0.0,-0.11,631,621,transport,Address your negative balance immediately to avoid further fees.
+CUST00327,2025-01-31,32,Finance,6386.19,6968.22,4628.98,7048.13,9387.38,0.0,-0.02,653,648,shopping,Good balance on shopping expenses. Maintain discipline.
+CUST00328,2025-01-31,47,Self-employed,5613.9,6378.47,3207.36,14734.48,17905.58,0.0,-0.11,687,697,transport,Excellent financial health; well managed transport costs.
+CUST00329,2025-01-31,27,Engineer,1291.02,1647.9,3605.97,3259.92,1301.85,135.07,2.83,703,708,healthcare,High healthcare debits impacted balance. Plan for next month.
+CUST00330,2025-01-31,40,Engineer,2869.4,3132.99,3102.94,2855.84,2885.89,0.0,-1.06,654,659,shopping,Shopping expenses are stable. Continue to monitor carefully.
+CUST00331,2025-01-31,37,Self-employed,1846.78,2368.86,2482.58,5378.38,5264.66,82.78,1.08,653,658,healthcare,Slightly overspent on healthcare. Track these costs closely.
+CUST00332,2025-01-31,39,Retail,907.13,1791.36,1945.24,1777.26,1623.38,8.19,0.23,606,616,education,Education expenses high; current balance is low. Be careful.
+CUST00333,2025-01-31,33,Unemployed,4173.57,5056.87,6503.68,10529.17,9082.37,396.45,2.61,685,695,education,
+CUST00334,2025-01-31,21,Finance,1850.68,2266.31,1898.9,1304.47,1671.88,23.77,0.67,664,669,transport,Good job managing transport. Keep up the efficiency!
+CUST00335,2025-01-31,44,Student,500.0,1018.51,995.36,520.93,544.08,22.6,1.49,649,644,healthcare,Close balance. Review healthcare spending for savings.
+CUST00336,2025-01-31,34,Retail,5916.03,7732.32,15519.34,8562.36,775.34,335.15,2.1,621,626,healthcare,Very high healthcare costs. Monitor spending carefully.
+CUST00337,2025-01-31,32,Retail,2355.99,3168.54,1596.01,7483.92,9056.46,220.12,2.11,714,709,education,Excellent management of education costs and overall finances.
+CUST00338,2025-01-31,32,Finance,5462.19,6411.52,10059.53,18848.0,15199.98,361.03,1.45,700,710,transport,High transport expenses. Look for alternatives next month.
+CUST00339,2025-01-31,39,Healthcare,3936.89,5495.73,6138.86,5472.65,4829.52,0.0,-1.48,740,750,healthcare,Healthcare spending is concerning. Review your budget now.
+CUST00340,2025-01-31,47,Engineer,2869.17,,,3425.48,467.01,12.28,0.19,631,626,healthcare,Very high healthcare spending. Your balance is quite low.
+CUST00341,2025-01-31,47,Self-employed,1470.71,1471.41,4189.85,2036.51,-681.93,0.7,0.02,711,701,healthcare,"Contact us about your overdraft, especially regarding healthcare costs."
+CUST00342,2025-01-31,26,Finance,2434.82,4593.93,3076.18,9056.16,10573.91,76.01,0.56,654,664,healthcare,Healthy balance. Continue managing healthcare expenses wisely.
+CUST00343,2025-01-31,31,Retail,8037.16,9880.34,3360.72,8091.77,14611.39,139.1,0.78,635,640,dining,Excellent financial health. Enjoy your dining experiences!
+CUST00344,2025-01-31,52,Retail,5440.26,6087.21,12013.65,1844.37,-4082.07,180.6,2.33,651,641,utilities,Serious overdraft! Let's review utility costs and spending habits.
+CUST00345,2025-01-31,53,Retail,6776.18,7612.55,2456.83,25675.94,30831.67,237.96,0.72,768,763,entertainment,Outstanding balance! Consider investing or saving more.
+CUST00346,2025-01-31,19,Healthcare,7126.04,8070.68,5969.5,8654.46,10755.65,167.23,1.01,754,764,groceries,Consistent performance on groceries and overall spending.
+CUST00347,2025-01-31,32,Healthcare,5698.31,8573.51,8993.59,20307.01,19886.93,624.46,2.21,665,670,entertainment,High entertainment costs. Ensure it aligns with budget.
+CUST00348,2025-01-31,43,Unemployed,4154.5,4665.23,5359.75,15107.25,14412.73,137.45,0.7,682,672,healthcare,Maintain stable spending. Watch healthcare expenditures closely.
+CUST00349,2025-01-31,45,Healthcare,5347.89,6048.28,5652.77,6898.0,7293.51,0.0,-1.48,654,644,dining,Dining expenses are stable. Good financial management.
+CUST00350,2025-01-31,47,Healthcare,4778.37,6091.4,3138.84,12860.1,15812.65,243.21,1.3,688,683,entertainment,Great balance and entertainment spending. Keep thriving!
+CUST00351,2025-01-31,37,Finance,5315.94,5779.3,3318.27,12517.89,14978.92,420.11,2.35,712,702,utilities,Strong balance this month; managing utilities well. Keep it up!
+CUST00352,2025-01-31,39,Technician,2648.11,3410.44,3145.16,3732.82,3998.1,28.46,0.4,762,767,shopping,Balance is stable. Perhaps review shopping expenses next month.
+CUST00353,2025-01-31,35,Technician,3314.07,3447.27,4254.37,3885.83,3078.73,133.2,1.85,636,646,healthcare,Debits exceeded credits. Time to review healthcare spending.
+CUST00354,2025-01-31,29,Manager,3330.3,3768.57,2682.6,2385.89,3471.87,0.0,-0.45,651,656,healthcare,Solid month! Consider setting a new savings goal.
+CUST00355,2025-01-31,30,Technician,5699.71,6722.21,6963.09,15888.32,15647.44,371.39,1.67,607,612,dining,"High dining expenses, but balance remains strong. Keep monitoring."
+CUST00356,2025-01-31,35,Engineer,6184.56,7691.99,3732.91,13191.55,17150.63,8.35,0.04,686,696,healthcare,Excellent financial health! Your healthcare costs are well managed.
+CUST00357,2025-01-31,30,Manager,4634.52,7142.51,7896.76,10993.63,10239.37,0.0,-1.67,627,632,education,Debits higher than credits. Review education spending next month.
+CUST00358,2025-01-31,36,Technician,8326.78,15613.12,7185.55,6791.31,15218.88,0.0,-2.12,723,713,utilities,Impressive credits this month! Utilities are handled efficiently.
+CUST00359,2025-01-31,61,Unemployed,7455.55,11766.86,21521.18,12283.26,2528.94,439.16,1.86,647,642,healthcare,Significant debits. Time to cut back on healthcare spending.
+CUST00360,2025-01-31,39,Student,500.0,581.18,2132.9,2043.55,491.82,48.94,1.9,738,733,entertainment,Low balance. Focus on reducing entertainment expenses for improvement.
+CUST00361,2025-01-31,56,Student,1810.91,2028.51,2197.0,1513.19,1344.7,1.77,0.05,613,623,shopping,
+CUST00362,2025-01-31,54,Self-employed,,597.52,1850.23,1756.51,503.79,17.52,0.75,639,629,dining,High dining debits affecting balance. Consider budgeting more closely.
+CUST00363,2025-01-31,60,Self-employed,2334.53,2497.23,6066.99,3092.15,-477.61,137.39,2.52,638,633,utilities,Negative balance. Urgently review utilities and overall spending.
+CUST00364,2025-01-31,41,Retail,5311.64,,,3930.3,7533.35,0.0,-0.42,676,681,healthcare,Great month for your finances! Healthcare spending is balanced.
+CUST00365,2025-01-31,46,Manager,6673.19,11615.99,10565.14,10226.02,11276.87,248.33,1.15,722,732,groceries,Steady growth this month. Good management of groceries expenses.
+CUST00366,2025-01-31,57,Healthcare,2469.29,2553.05,1559.95,2210.08,3203.18,83.76,1.79,685,690,shopping,"Positive balance, good job! Watch shopping expenses closely."
+CUST00367,2025-01-31,35,Retail,1860.05,2605.74,1356.0,823.29,2073.03,56.99,1.69,717,707,dining,Healthy balance! Your dining expenditures are well within limits.
+CUST00368,2025-01-31,30,Technician,8359.69,10879.11,8391.1,30943.59,33431.6,654.57,1.59,705,710,healthcare,Outstanding end balance! Continue managing healthcare effectively.
+CUST00369,2025-01-31,37,Retail,3019.2,3238.9,3176.36,7881.6,7944.14,0.0,-1.25,659,649,entertainment,Stable balance. Entertainment spending is under control.
+CUST00370,2025-01-31,34,Self-employed,2979.98,4902.98,6356.98,4457.68,3003.68,234.54,2.57,709,714,healthcare,Debits exceeded credits significantly. Review healthcare costs next.
+CUST00371,2025-01-31,54,Finance,2854.72,3505.81,2876.93,1811.56,2440.44,0.0,-0.12,593,583,shopping,Solid balance maintained. Monitor shopping for further savings.
+CUST00372,2025-01-31,40,Finance,2226.84,2508.56,4736.14,4930.79,2703.21,0.0,-1.18,632,627,utilities,
+CUST00373,2025-01-31,43,Technician,3769.86,4642.63,8474.27,8093.9,4262.26,165.93,1.32,687,682,utilities,
+CUST00374,2025-01-31,41,Teacher,2170.17,2518.83,2566.34,1128.83,1081.32,67.31,1.88,787,797,shopping,Balance is tight. Watch shopping expenses closely next month.
+CUST00375,2025-01-31,53,Teacher,,5916.41,11162.17,22375.81,17130.05,81.81,0.29,667,657,healthcare,"High healthcare debits, but strong end balance. Good."
+CUST00376,2025-01-31,31,Self-employed,5461.85,6349.09,6543.24,11521.54,11327.39,101.29,0.57,644,639,entertainment,Debits slightly higher. Reconsider entertainment spending next month.
+CUST00377,2025-01-31,52,Engineer,5445.96,5655.1,3749.05,9709.1,11615.15,209.14,1.38,776,766,healthcare,Very strong balance. Healthcare expenses are manageable. Well done.
+CUST00378,2025-01-31,48,Retail,,6219.16,2472.48,8406.49,12153.17,170.57,1.18,758,768,healthcare,Excellent month financially! Keep up the good work.
+CUST00379,2025-01-31,46,Teacher,3130.74,4245.09,4533.08,12341.76,12053.77,275.66,1.69,640,635,dining,Stable balance despite dining expenses. Continue monitoring spending.
+CUST00380,2025-01-31,30,Engineer,1432.34,1729.58,1442.71,975.54,1262.41,92.49,3.54,685,695,education,Balance is steady. Plan for upcoming education costs carefully.
+CUST00381,2025-01-31,21,Teacher,3983.85,3983.85,3339.09,12779.92,13424.68,0.0,-0.73,678,668,healthcare,Consistent performance. Managing healthcare expenditures effectively for growth.
+CUST00382,2025-01-31,31,Student,1055.82,1753.36,2480.88,3507.72,2780.21,83.87,1.62,692,682,healthcare,Debits higher than credits. Review healthcare spending habits.
+CUST00383,2025-01-31,25,Manager,7146.78,7307.83,83600.02312807429,15995.65,17835.84,125.16,0.54,674,664,groceries,Fantastic month! Groceries spending is well managed. Bravo.
+CUST00384,2025-01-31,32,Retail,3839.01,4128.52,5199.51,8981.72,7910.73,131.09,1.01,640,645,shopping,Debits exceeded credits. Analyze your shopping habits.
+CUST00385,2025-01-31,38,Retail,3798.53,3974.61,4634.16,8768.02,8108.47,22.9,0.18,677,687,groceries,High groceries spending this month. Look for savings opportunities.
+CUST00386,2025-01-31,29,Student,3546.59,3620.48,2097.15,5015.69,6539.02,0.0,-1.3,691,696,utilities,Good balance growth. Utilities spending is well controlled.
+CUST00387,2025-01-31,20,Healthcare,7899.32,10471.14,6863.26,30451.47,34059.35,747.26,1.86,777,767,groceries,Impressive balance! Managing groceries efficiently contributes to savings.
+CUST00388,2025-01-31,37,Student,6418.53,7097.97,2248.66,18065.29,22914.6,0.0,-0.97,743,748,entertainment,Excellent financial health! Enjoy your entertainment responsibly.
+CUST00389,2025-01-31,23,Manager,3368.59,3388.25,2237.57,1251.05,2401.73,0.0,-0.86,670,665,dining,Stable month. Dining costs are manageable. Keep monitoring.
+CUST00390,2025-01-31,41,Finance,2091.35,3405.02,2716.29,4318.09,5006.81,85.54,1.12,631,621,shopping,Positive balance. Review shopping expenses to boost savings.
+CUST00391,2025-01-31,31,Teacher,1062.84,1222.25,2084.13,1874.57,1012.69,19.39,0.63,670,680,education,Debits higher than credits. Prioritize education spending carefully.
+CUST00392,2025-01-31,18,Teacher,4693.94,4744.42,10056.41,14719.65,9407.65,50.48,0.26,706,716,education,Very high debits in education. Consider a budget review.
+CUST00393,2025-01-31,46,Manager,5126.58,5444.48,6486.81,16208.95,15166.62,317.9,1.49,654,659,utilities,Debits slightly higher. Monitor utilities for potential reductions.
+CUST00394,2025-01-31,40,Technician,3111.4,3421.42,5960.83,5311.59,2772.18,129.91,1.51,640,630,entertainment,Significant entertainment debits. Try to cut back next month.
+CUST00395,2025-01-31,30,Retail,,7624.54,4985.85,17179.87,19818.56,147.94,0.6,636,646,shopping,Strong balance growth! Keep up the smart shopping.
+CUST00396,2025-01-31,39,Manager,5461.89,6134.06,6362.74,9544.18,9315.49,252.97,1.64,667,662,healthcare,Debits slightly up. Keep an eye on healthcare spending.
+CUST00397,2025-01-31,18,Retail,1011.7,1324.4,1714.22,2601.62,2211.8,0.0,-0.54,717,707,transport,End balance stable. Review transport costs for savings.
+CUST00398,2025-01-31,30,Retail,500.0,658.97,717.82,1129.06,1070.2,5.35,0.3,595,585,shopping,Balance stable but low. Watch shopping expenses for improvement.
+CUST00399,2025-01-31,29,Manager,5178.17,,,14290.54,11884.46,38.94,0.2,637,647,dining,Debits exceeded credits. Consider reducing dining out next month.
+CUST00400,2025-01-31,60,Unemployed,3500.89,4862.41,4974.57,11818.69,11706.52,546.95,3.39,722,717,shopping,Steady balance. Review shopping to find more savings.
+CUST00401,2025-01-31,41,Engineer,4461.41,5074.24,8357.3,5858.23,2575.17,76.0,0.7,661,651,shopping,Monitor shopping expenses; aim to reduce debits next month.
+CUST00402,2025-01-31,35,Self-employed,2313.86,2421.02,3291.27,1654.05,783.8,84.99,2.13,602,597,transport,Balance is low. Review transport costs to improve savings.
+CUST00403,2025-01-31,51,Manager,5321.06,5533.31,5889.51,19480.28,19124.08,74.82,0.3,673,678,entertainment,Good balance! Maybe consider budgeting for entertainment spending.
+CUST00404,2025-01-31,57,Technician,2199.82,,,4869.24,1429.37,185.81,2.34,702,712,education,High education spending; ensure balance supports future goals.
+CUST00405,2025-01-31,35,Self-employed,4706.61,5935.26,5069.39,4143.04,5008.91,140.13,1.41,601,596,education,Solid balance. Keep up the good work managing education costs.
+CUST00406,2025-01-31,40,Unemployed,3441.73,4384.82,2672.73,1763.43,3475.52,11.66,0.19,669,679,healthcare,Excellent saving! Continue managing healthcare spending effectively.
+CUST00407,2025-01-31,40,Unemployed,500.0,737.32,1513.2,1252.85,476.96,0.0,-0.96,745,755,shopping,Very low balance. Cut back on shopping to improve finances.
+CUST00408,2025-01-31,37,Teacher,3456.15,4179.67,1590.42,881.49,3470.74,221.19,4.57,680,675,healthcare,Strong credits this month! Consider increasing savings further.
+CUST00409,2025-01-31,39,Retail,1828.47,1876.91,3005.98,1656.14,527.06,48.44,1.39,758,763,shopping,Balance is low. Re-evaluate shopping habits for better financial health.
+CUST00410,2025-01-31,41,Manager,3284.99,4042.97,3159.92,8142.64,9025.69,0.0,-0.74,675,670,groceries,Good progress with savings. Keep managing grocery expenses wisely.
+CUST00411,2025-01-31,35,Technician,3770.98,4619.14,7135.55,13432.45,10916.04,224.62,1.26,716,711,education,High spending on education. Plan finances carefully for next month.
+CUST00412,2025-01-31,28,Technician,4476.1,5656.56,8101.25,4058.83,1614.15,218.43,2.3,727,722,education,Debits are high. Review education expenses to improve your balance.
+CUST00413,2025-01-31,51,Engineer,4339.57,4769.2,7448.85,6342.16,3662.51,238.12,2.19,641,636,healthcare,High healthcare costs. Try to find areas to cut back.
+CUST00414,2025-01-31,31,Unemployed,2790.07,2790.07,5900.75,3823.57,712.89,0.0,-1.23,680,685,transport,
+CUST00415,2025-01-31,30,Teacher,944.33,1059.69,876.13,1658.47,1842.02,0.0,-0.96,601,591,transport,Good spending vs credits. Maintain mindful transport choices.
+CUST00416,2025-01-31,38,Self-employed,1451.34,1479.23,1094.22,1130.61,1515.61,27.89,1.08,631,626,utilities,Stable balance. Keep monitoring utility costs for efficiency.
+CUST00417,2025-01-31,40,Student,3310.08,3555.91,4154.53,2060.4,1461.78,0.0,0.0,664,669,entertainment,Debits slightly exceed credits. Watch entertainment spending closely.
+CUST00418,2025-01-31,41,Self-employed,2379.94,2408.14,2847.11,3956.18,3517.21,0.0,-0.2,651,656,healthcare,Solid balance. Good management of healthcare expenses.
+CUST00419,2025-01-31,26,Student,2697.48,3779.44,2726.08,6589.92,7643.29,40.28,0.39,733,723,transport,Good savings this month! Consider investing excess funds.
+CUST00420,2025-01-31,46,Retail,2663.21,4222.02,3148.76,10720.16,11793.42,487.13,3.37,632,622,utilities,Healthy balance. Continue smart management of utilities and spending.
+CUST00421,2025-01-31,50,Unemployed,5752.74,6526.31,2273.65,19436.06,23688.72,108.59,0.42,775,770,dining,Excellent saving! Enjoy your dining while maintaining growth.
+CUST00422,2025-01-31,30,Retail,8944.7,9590.86,28575.71,27789.76,8804.91,33.61,0.09,662,652,dining,Very high debits this month. Review dining expenses to recover.
+CUST00423,2025-01-31,36,Unemployed,2830.58,3700.11,3742.25,2772.76,2730.62,167.72,2.66,615,620,transport,Debits exceed credits. Monitor transport spending carefully.
+CUST00424,2025-01-31,45,Manager,3026.61,4012.31,7741.49,12393.71,8664.53,290.09,1.8,749,754,education,High education costs. Plan your budget to avoid overdrafts.
+CUST00425,2025-01-31,62,Finance,5381.64,7103.32,1843.88,12880.53,18139.98,0.0,-0.42,676,681,shopping,Fantastic savings! Perhaps consider a new investment opportunity.
+CUST00426,2025-01-31,43,Self-employed,1902.72,1902.72,1671.1,432.65,664.27,0.0,-0.75,731,736,dining,Balance is low. Cut back on dining for better stability.
+CUST00427,2025-01-31,65,Finance,2062.71,2246.69,1628.91,7101.57,7719.35,0.0,-0.07,646,651,dining,Great balance growth! Continue managing dining expenses effectively.
+CUST00428,2025-01-31,69,Retail,2124.63,2184.17,2992.63,5697.77,4889.31,0.0,-0.15,649,639,entertainment,Debits higher than credits. Review entertainment budget.
+CUST00429,2025-01-31,46,Self-employed,1671.38,1679.96,1538.14,1101.49,1243.32,5.55,0.2,727,717,dining,Stable balance. Keep mindful of dining expenses this month.
+CUST00430,2025-01-31,47,Technician,4149.33,4536.49,4920.87,3542.38,3158.01,16.93,0.21,564,554,entertainment,Debits slightly higher. Consider reducing entertainment spending next month.
+CUST00431,2025-01-31,34,Student,4405.29,5082.9,4753.81,8997.34,9326.43,228.55,1.65,673,678,groceries,Good savings. Continue smart grocery shopping and budgeting.
+CUST00432,2025-01-31,33,Finance,5375.99,8070.64,7644.07,15630.68,16057.25,89.72,0.38,672,662,education,Strong balance. Keep up good management of education costs.
+CUST00433,2025-01-31,38,Self-employed,500.0,609.92,823.6,1720.77,1507.09,58.62,2.58,737,732,shopping,Low balance. Reduce shopping expenses to improve your finances.
+CUST00434,2025-01-31,33,Teacher,7661.4,10925.01,5882.63,27729.07,32771.45,394.08,1.03,648,653,transport,Outstanding savings! Consider expanding your investment portfolio.
+CUST00435,2025-01-31,50,Self-employed,8752.51,9663.12,21837.11,6111.76,-6062.23,0.0,-0.28,598,588,shopping,Urgent: negative balance! Drastically cut shopping expenses immediately.
+CUST00436,2025-01-31,41,Manager,2855.55,3113.54,8972.93,4918.33,-941.07,48.7,0.61,662,652,healthcare,Negative balance. Review healthcare costs and financial priorities.
+CUST00437,2025-01-31,51,Healthcare,3331.05,5292.68,7626.56,2977.36,643.49,295.84,3.71,783,778,shopping,Balance is low. Consider reducing shopping to build savings.
+CUST00438,2025-01-31,53,Engineer,4963.98,5816.87,3567.51,3537.29,5786.66,2.81,0.03,710,700,dining,Excellent month for savings! Enjoy dining responsibly.
+CUST00439,2025-01-31,49,Teacher,2702.14,2898.18,4455.66,2453.5,896.02,0.0,-3.96,693,703,shopping,Very low balance. Focus on reducing shopping to recover.
+CUST00440,2025-01-31,52,Student,3513.5,4874.17,8031.87,13236.03,10078.34,320.22,1.8,643,633,dining,High debits; review dining habits to improve your balance.
+CUST00441,2025-01-31,25,Technician,2610.99,4126.19,4177.65,1919.83,1868.36,34.27,0.57,688,693,transport,Debits slightly higher. Be mindful of transport costs next month.
+CUST00442,2025-01-31,39,Finance,1440.29,1512.14,2244.19,4042.47,3310.42,64.24,1.17,753,763,shopping,Debits exceeded credits. Re-evaluate shopping for better control.
+CUST00443,2025-01-31,54,Technician,1415.56,1415.56,1226.81,5893.24,6081.99,0.0,-0.77,696,701,shopping,Good balance. Continue mindful shopping while maintaining growth.
+CUST00444,2025-01-31,61,Engineer,5334.04,5904.76,2468.92,13810.52,17246.37,181.66,0.93,681,671,groceries,Great savings! Keep up excellent management of grocery expenses.
+CUST00445,2025-01-31,34,Self-employed,4003.3,4124.38,4404.49,8388.63,8108.52,0.0,-1.04,688,693,entertainment,Debits slightly high. Consider cutting back on entertainment costs.
+CUST00446,2025-01-31,45,Retail,1971.79,3194.65,2359.36,5428.03,6263.32,46.31,0.54,687,697,utilities,Healthy balance. Continue managing utility costs efficiently.
+CUST00447,2025-01-31,46,Unemployed,4405.79,5242.51,9103.95,2044.17,-1817.27,161.04,2.26,724,714,transport,Critical: negative balance! Address transport spending immediately.
+CUST00448,2025-01-31,49,Retail,2181.78,2381.24,3745.63,4876.75,3512.36,122.03,1.71,630,640,shopping,Debits high. Review shopping to improve your monthly balance.
+CUST00449,2025-01-31,47,Teacher,5554.82,8300.61,6264.23,8963.1,10999.49,303.59,1.79,634,624,shopping,Strong credits and balance! Consider increasing savings or investments.
+CUST00450,2025-01-31,51,Engineer,2397.17,2397.17,4264.24,4024.12,2157.05,0.0,-2.78,719,709,education,Debits high; review education spending for better financial health.
+CUST00451,2025-01-31,37,Technician,,4031.38,7989.03,6573.07,2615.41,83.12,0.79,687,697,education,Consider reviewing education expenses to improve your monthly flow.
+CUST00452,2025-01-31,20,Manager,500.0,582.93,1116.15,44.31,-488.92,7.07,1.14,671,666,entertainment,
+CUST00453,2025-01-31,48,Healthcare,3184.42,3546.91,2935.3,9715.71,10327.32,362.49,2.81,712,707,healthcare,Excellent financial health! Keep up smart spending on healthcare.
+CUST00454,2025-01-31,35,Retail,6496.66,7987.2,3606.41,14944.41,19325.19,427.58,1.9,646,641,healthcare,
+CUST00455,2025-01-31,40,Unemployed,4605.92,8058.58,14561.57,11219.76,4716.77,107.36,0.56,550,555,education,Significant education debits. Review large expenses to protect savings.
+CUST00456,2025-01-31,55,Student,4973.76,5801.37,3096.87,8218.69,10923.19,319.23,2.33,673,683,healthcare,Fantastic month! Your healthcare spending is well within limits.
+CUST00457,2025-01-31,40,Finance,5064.52,5250.3,7930.85,12298.48,9617.94,185.78,1.07,686,681,shopping,High shopping debits. Monitor spending closely to maintain balance.
+CUST00458,2025-01-31,26,Retail,3067.08,3191.51,5151.76,11113.52,9153.27,119.16,0.84,721,711,education,Keep an eye on education spending to ensure better cash flow.
+CUST00459,2025-01-31,59,Student,2653.76,3289.74,3623.48,2807.33,2473.59,45.99,0.76,668,663,entertainment,Slight overspend this month. Try to cut back on entertainment.
+CUST00460,2025-01-31,37,Teacher,4534.45,4534.45,7572.27,3471.22,433.4,0.0,-0.52,715,710,healthcare,High healthcare costs affected your balance. Budget carefully next month.
+CUST00461,2025-01-31,20,Technician,3236.83,3628.04,1716.48,5256.74,7168.3,34.52,0.39,693,703,entertainment,Great month! Enjoy your entertainment while maintaining financial health.
+CUST00462,2025-01-31,27,Manager,5562.25,6722.41,5764.23,4582.21,5540.39,5.65,0.05,633,628,healthcare,Solid financial management! Your healthcare expenses are well-handled.
+CUST00463,2025-01-31,43,Unemployed,3249.24,3515.68,3517.29,7874.79,7873.18,182.69,1.63,645,650,utilities,Watch utility costs closely; your balance remains strong.
+CUST00464,2025-01-31,18,Engineer,2347.42,2545.38,4845.96,2021.32,-279.26,96.56,2.16,702,712,education,Negative balance! Prioritize essential spending and reduce education costs.
+CUST00465,2025-01-31,48,Healthcare,3533.6,5335.06,4185.42,14204.86,15354.5,392.52,2.05,627,622,healthcare,Excellent month! Consider adding more to your long-term savings.
+CUST00466,2025-01-31,37,Retail,2626.25,3544.36,1778.78,3966.06,5731.64,0.0,-0.02,706,696,entertainment,Good spending habits. Continue enjoying entertainment within your means.
+CUST00467,2025-01-31,51,Finance,1916.15,3321.22,1184.46,7467.89,9604.65,270.33,2.57,643,648,healthcare,Strong balance! Keep up the smart healthcare spending decisions.
+CUST00468,2025-01-31,36,Unemployed,3594.16,5636.45,6154.88,9135.05,8616.62,0.0,-0.36,663,673,utilities,Minor deficit this month. Review utility bills for potential savings.
+CUST00469,2025-01-31,42,Unemployed,3028.94,3744.56,3488.1,5285.71,5542.17,113.25,1.27,655,645,healthcare,Good progress! Continue to manage your healthcare expenses wisely.
+CUST00470,2025-01-31,41,Retail,7192.45,8960.52,2914.29,19452.95,25499.19,0.0,-0.07,664,654,shopping,Outstanding balance! Maybe consider rewarding yourself responsibly with shopping.
+CUST00471,2025-01-31,27,Engineer,4844.07,5946.07,4052.78,13409.69,15302.98,23.2,0.12,581,591,transport,Fantastic savings! Your transport costs are well-managed and affordable.
+CUST00472,2025-01-31,54,Self-employed,7651.49,9905.67,20448.37,8083.24,-2459.46,237.86,1.34,668,178,education,Significant overspend. Drastically cut education and other expenses next month.
+CUST00473,2025-01-31,39,Retail,5633.69,5633.69,2711.42,10274.28,13196.55,0.0,-0.4,643,638,groceries,Excellent financial health! Your grocery spending is very efficient.
+CUST00474,2025-01-31,18,Unemployed,3185.38,3890.57,2047.75,3741.88,5584.7,0.0,-0.07,558,553,utilities,Solid month! Keep an eye on utilities for potential savings.
+CUST00475,2025-01-31,47,Healthcare,2245.93,3237.15,1773.36,5159.69,6623.48,112.66,1.36,679,674,shopping,Good job! Balance your shopping with your other financial goals.
+CUST00476,2025-01-31,38,Manager,2585.83,3734.91,5109.83,4275.68,2900.76,246.13,3.17,657,667,dining,Dining expenses are high. Cut back to improve your balance.
+CUST00477,2025-01-31,31,Self-employed,6320.95,8942.48,3288.34,3412.83,9066.97,0.0,-0.38,662,667,transport,Fantastic balance! Your transport expenses are managed exceptionally well.
+CUST00478,2025-01-31,45,Unemployed,1415.44,1539.59,1972.89,1063.94,630.64,0.0,-0.55,711,721,shopping,Shopping debits slightly high. Be mindful to build your savings.
+CUST00479,2025-01-31,44,Unemployed,4009.46,4061.13,7645.32,2505.09,-1079.1,0.0,-1.69,689,694,shopping,Serious overspend on shopping. Reduce expenses to recover quickly.
+CUST00480,2025-01-31,48,Engineer,6315.01,7059.35,5759.45,16170.42,17470.32,257.29,1.12,639,629,shopping,Excellent financial standing! Your shopping habits are well-controlled.
+CUST00481,2025-01-31,48,Technician,6014.39,6468.61,2990.25,18406.11,21884.47,454.22,1.86,662,657,entertainment,Outstanding! Consider investing some funds while enjoying entertainment.
+CUST00482,2025-01-31,18,Teacher,500.0,686.43,3222.88,676.58,-1859.87,0.0,-0.25,695,700,education,
+CUST00483,2025-01-31,35,Unemployed,2920.55,3439.26,5349.86,9816.52,7905.92,168.82,1.29,725,720,healthcare,
+CUST00484,2025-01-31,45,Teacher,4000.07,5567.34,6517.89,2460.16,1509.61,138.84,1.76,624,629,education,High education costs. Prioritize essential spending to build balance.
+CUST00485,2025-01-31,35,Finance,6241.79,8547.1,6319.25,12281.95,14509.8,0.0,-0.16,689,699,transport,Great month! Your transport spending is efficient and sensible.
+CUST00486,2025-01-31,21,Unemployed,3377.46,4899.54,9529.15,1746.1,-2883.51,70.36,1.07,694,689,entertainment,Significant negative balance. Reduce entertainment spending to recover funds.
+CUST00487,2025-01-31,43,Manager,3233.39,3645.8,6490.92,7562.61,4717.48,412.41,3.82,712,707,groceries,Groceries debits are high. Plan meals to reduce next month's costs.
+CUST00488,2025-01-31,38,Manager,4035.25,5282.65,1954.14,6426.46,9754.97,290.04,2.54,741,746,groceries,Excellent control over groceries! Your savings are growing well.
+CUST00489,2025-01-31,40,Self-employed,6790.33,7504.7,13039.91,11500.19,5964.98,70.06,0.37,728,723,shopping,High shopping expenses this month. Review your budget carefully.
+CUST00490,2025-01-31,64,Manager,2749.94,2952.04,4736.6,1874.57,90.0,69.92,1.47,666,676,shopping,Low balance! Drastically cut shopping and unnecessary spending immediately.
+CUST00491,2025-01-31,55,Finance,761.93,822.81,958.17,120.6,-14.75,0.0,-0.83,688,693,utilities,Negative balance. Review utility usage to reduce costs urgently.
+CUST00492,2025-01-31,38,Self-employed,1038.03,1237.26,1295.96,46.05,-12.65,0.0,-1.48,658,668,entertainment,Small deficit. Consider reducing entertainment expenses to improve balance.
+CUST00493,2025-01-31,35,Finance,632.3,752.73,1747.69,2329.16,1334.2,0.0,-0.52,798,793,entertainment,Entertainment spending is high for your income. Budget carefully.
+CUST00494,2025-01-31,33,Manager,4213.97,4801.01,2229.97,15702.33,18273.37,138.48,0.68,748,738,groceries,Outstanding financial management! Your grocery budget is efficient.
+CUST00495,2025-01-31,54,Manager,2590.64,3329.91,4161.76,6199.67,5367.82,0.0,-0.22,605,600,healthcare,Watch healthcare spending this month to maintain your balance.
+CUST00496,2025-01-31,34,Unemployed,2177.64,2317.89,5504.84,6588.13,3401.19,140.25,1.6,679,689,healthcare,High healthcare debits. Review expenses to protect your savings.
+CUST00497,2025-01-31,45,Technician,4129.9,4417.29,5207.98,14059.08,13268.39,287.39,1.58,736,741,groceries,"Despite high grocery debits, your balance remains strong."
+CUST00498,2025-01-31,47,Teacher,9745.49,10207.06,11536.84,31466.28,30136.5,461.57,1.12,654,649,groceries,Excellent balance! Monitor grocery spending for continued savings growth.
+CUST00499,2025-01-31,24,Engineer,3491.08,5079.61,4464.24,9191.36,9806.73,0.0,-0.06,632,622,groceries,Great job with groceries! Keep up the smart financial decisions.
+CUST00500,2025-01-31,29,Engineer,4614.95,4626.64,2176.01,10000.56,12451.19,11.69,0.08,731,736,dining,Outstanding balance! Enjoy dining out while staying financially smart.
