@@ -1,0 +1,157 @@
+{
+  "rows": 500,
+  "numeric": {
+    "age": {
+      "count": 500.0,
+      "mean": 39.122,
+      "std": 11.066709543502101,
+      "min": 18.0,
+      "25%": 32.0,
+      "50%": 39.0,
+      "75%": 47.0,
+      "max": 72.0
+    },
+    "monthly_income": {
+      "count": 490.0,
+      "mean": 3866.8680204081634,
+      "std": 1977.7354788220212,
+      "min": 500.0,
+      "25%": 2401.985,
+      "50%": 3813.22,
+      "75%": 5304.98,
+      "max": 9768.46
+    },
+    "monthly_credit": {
+      "count": 485.0,
+      "mean": 4757.02381443299,
+      "std": 2564.605982889055,
+      "min": 510.09,
+      "25%": 2917.52,
+      "50%": 4598.85,
+      "75%": 6245.5,
+      "max": 15613.12
+    },
+    "monthly_debit": {
+      "count": 485.0,
+      "mean": 6235.750086719968,
+      "std": 10977.072664025058,
+      "min": 717.82,
+      "25%": 2456.83,
+      "50%": 4189.85,
+      "75%": 6629.33,
+      "max": 148981.88445679165
+    },
+    "starting_balance": {
+      "count": 500.0,
+      "mean": 7899.50754,
+      "std": 6291.828639653888,
+      "min": -66.84,
+      "25%": 2977.16,
+      "50%": 6270.915,
+      "75%": 11205.2925,
+      "max": 31466.28
+    },
+    "ending_balance": {
+      "count": 500.0,
+      "mean": 7640.0554,
+      "std": 7246.865007978565,
+      "min": -6347.86,
+      "25%": 1855.4450000000002,
+      "50%": 6041.695,
+      "75%": 11323.279999999999,
+      "max": 35952.21
+    },
+    "monthly_invest_gain": {
+      "count": 500.0,
+      "mean": 127.12326000000002,
+      "std": 162.98147753413826,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 69.545,
+      "75%": 186.39249999999998,
+      "max": 1495.78
+    },
+    "monthly_invest_return_pct": {
+      "count": 500.0,
+      "mean": 0.85764,
+      "std": 1.2565348343678975,
+      "min": -3.96,
+      "25%": -0.0025,
+      "50%": 0.845,
+      "75%": 1.69,
+      "max": 4.68
+    },
+    "initial_credit_score": {
+      "count": 500.0,
+      "mean": 679.618,
+      "std": 48.601773019935834,
+      "min": 506.0,
+      "25%": 645.0,
+      "50%": 679.5,
+      "75%": 714.0,
+      "max": 837.0
+    },
+    "final_credit_score": {
+      "count": 500.0,
+      "mean": 678.118,
+      "std": 66.19074334837175,
+      "min": 177.0,
+      "25%": 644.0,
+      "50%": 681.0,
+      "75%": 714.0,
+      "max": 1038.0
+    }
+  },
+  "categorical_top": {
+    "customer_id": {
+      "CUST00500": 1,
+      "CUST00001": 1,
+      "CUST00002": 1,
+      "CUST00003": 1,
+      "CUST00484": 1,
+      "CUST00483": 1,
+      "CUST00482": 1,
+      "CUST00481": 1,
+      "CUST00480": 1,
+      "CUST00479": 1
+    },
+    "date": {
+      "2025-01-31": 500
+    },
+    "occupation": {
+      "Self-employed": 62,
+      "Retail": 61,
+      "Manager": 58,
+      "Teacher": 54,
+      "Finance": 49,
+      "Engineer": 46,
+      "Student": 44,
+      "Healthcare": 43,
+      "Unemployed": 43,
+      "Technician": 40
+    },
+    "transaction_category_major": {
+      "shopping": 100,
+      "education": 86,
+      "healthcare": 83,
+      "entertainment": 51,
+      "utilities": 47,
+      "dining": 46,
+      "groceries": 43,
+      "transport": 41,
+      "transfer": 3
+    },
+    "customer_feedback": {
+      "NaN": 25,
+      "Dining out was excessive; need to cut back.": 1,
+      "Utilities were costly; exploring ways to save energy.": 1,
+      "Excellent savings this month, very happy with progress!": 1,
+      "Managed dining costs well, financial health is good.": 1,
+      "Shopping spree impacted balance; will be more mindful.": 1,
+      "Education investment continues; strong savings too.": 1,
+      "Transport costs manageable, but savings growth is slow.": 1,
+      "Groceries were pricey; next month requires strict budgeting.": 1,
+      "Dining was a treat, but aiming for higher savings.": 1
+    }
+  }
+}
